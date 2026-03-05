@@ -223,47 +223,45 @@ jobs:
           echo "Git diff --cached:"
           git diff --cached || true
 
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            echo "Checking if apps.json changed:"
-            git diff apps.json || echo "No diff in apps.json"
-            exit 0
-          fi
+          if ! git diff --cached --quiet; then
+            # 1. Commit first to make the tree clean
+            git commit -m "chore: update apps.json for ${TAG:-latest release}" || echo "Nothing to commit"
 
-          # 1. Commit first to make the tree clean
-          git commit -m "chore: update apps.json for ${TAG:-latest release}" || echo "Nothing to commit"
-
-          # 3. Detect branch for pull/push
-          TARGET_BRANCH=${CURRENT_BRANCH:-main}
-          if [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ]; then
-            TARGET_BRANCH=$(git remote show origin | grep 'HEAD branch' | cut -d' ' -f5 || echo "main")
-          fi
-          echo "Target branch for sync: $TARGET_BRANCH"
-
-          # 4. Push with retry logic to handle concurrent updates
-          MAX_RETRIES=5
-          RETRY_COUNT=0
-          
-          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-            echo "Attempting to push changes (Attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)..."
-            
-            # Always pull rebase before push
-            git pull --rebase --autostash origin $TARGET_BRANCH
-            
-            if git push origin HEAD:$TARGET_BRANCH; then
-              echo "✅ Successfully pushed changes to $TARGET_BRANCH"
-              break
-            else
-              RETRY_COUNT=$((RETRY_COUNT + 1))
-              if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
-                echo "⚠️ Push failed. Retrying in 5 seconds..."
-                sleep 5
-              else
-                echo "❌ Failed to push changes after $MAX_RETRIES attempts."
-                exit 1
-              fi
+            # 3. Detect branch for pull/push
+            TARGET_BRANCH=${CURRENT_BRANCH:-main}
+            if [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ]; then
+              TARGET_BRANCH=$(git remote show origin | grep 'HEAD branch' | cut -d' ' -f5 || echo "main")
             fi
-          done
+            echo "Target branch for sync: $TARGET_BRANCH"
+
+            # 4. Push with retry logic to handle concurrent updates
+            MAX_RETRIES=5
+            RETRY_COUNT=0
+            
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              echo "Attempting to push changes (Attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)..."
+              
+              # Always pull rebase before push
+              git pull --rebase --autostash origin $TARGET_BRANCH
+              
+              if git push origin HEAD:$TARGET_BRANCH; then
+                echo "✅ Successfully pushed changes to $TARGET_BRANCH"
+                break
+              else
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                  echo "⚠️ Push failed. Retrying in 5 seconds..."
+                  sleep 5
+                else
+                  echo "❌ Failed to push changes after $MAX_RETRIES attempts."
+                  exit 1
+                fi
+              fi
+            done
+          else
+            echo "No changes to commit in apps.json"
+          fi
 
           # Trigger deploy workflow manually since GITHUB_TOKEN doesn't trigger other workflows
+          echo "Triggering Deploy GitHub Pages workflow..."
           GH_TOKEN=${{ secrets.PAT_TOKEN }} gh workflow run deploy-pages.yml --repo ${{ github.repository }}
