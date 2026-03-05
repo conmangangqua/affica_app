@@ -3,7 +3,7 @@
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
