@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "calorie_fasting_tracker",
+      "name": "Calorie Fasting Tracker",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk"
+      }
+    },
+    {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
