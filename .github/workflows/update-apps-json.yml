@@ -12,11 +12,6 @@ on:
 
 permissions:
   contents: write
-  actions: write
-
-concurrency:
-  group: update-apps-json-${{ github.repository }}
-  cancel-in-progress: false # Không cancel để đảm bảo mọi release đều được cập nhật theo thứ tự
 
 jobs:
   update-apps-json:
@@ -73,7 +68,7 @@ jobs:
               RELEASE_DATA=$(gh api repos/${{ github.repository }}/releases/tags/$RELEASE_TAG --jq '{tag_name: .tag_name, name: .name}')
             else
               echo "Fetching latest release via API"
-              RELEASE_DATA=$(gh api repos/${{ github.repository }}/releases/latest --jq '{tag_name: .tag_name, name: .name}' 2>/dev/null || echo '{"tag_name": "", "name": ""}')
+              RELEASE_DATA=$(gh api repos/${{ github.repository }}/releases/latest --jq '{tag_name: .tag_name, name: .name}')
             fi
             
             echo "Release data: $RELEASE_DATA"
@@ -131,14 +126,23 @@ jobs:
           app_ids = set()
           for asset in all_assets:
               name = asset.get('name', '')
+              if not name: continue
+              
+              base_id = ""
               if name.endswith('_dev.apk'):
-                  app_ids.add(name.replace('_dev.apk', ''))
+                  base_id = name.replace('_dev.apk', '')
               elif name.endswith('_prod.apk'):
-                  app_ids.add(name.replace('_prod.apk', ''))
+                  base_id = name.replace('_prod.apk', '')
               elif name.endswith('.aab'):
-                  app_ids.add(name.replace('.aab', ''))
+                  base_id = name.replace('.aab', '')
               elif name.endswith('_icon.png'):
-                  app_ids.add(name.replace('_icon.png', ''))
+                  base_id = name.replace('_icon.png', '')
+              
+              if base_id:
+                  # Clean up double _dev suffixes or similar if they exist
+                  if base_id.endswith('_dev'):
+                      base_id = base_id[:-4]
+                  app_ids.add(base_id)
           
           app_ids = sorted(list(app_ids))
           print(f"Found app IDs: {', '.join(app_ids)}")
@@ -223,45 +227,28 @@ jobs:
           echo "Git diff --cached:"
           git diff --cached || true
 
-          if ! git diff --cached --quiet; then
-            # 1. Commit first to make the tree clean
-            git commit -m "chore: update apps.json for ${TAG:-latest release}" || echo "Nothing to commit"
-
-            # 3. Detect branch for pull/push
-            TARGET_BRANCH=${CURRENT_BRANCH:-main}
-            if [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ]; then
-              TARGET_BRANCH=$(git remote show origin | grep 'HEAD branch' | cut -d' ' -f5 || echo "main")
-            fi
-            echo "Target branch for sync: $TARGET_BRANCH"
-
-            # 4. Push with retry logic to handle concurrent updates
-            MAX_RETRIES=5
-            RETRY_COUNT=0
-            
-            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-              echo "Attempting to push changes (Attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)..."
-              
-              # Always pull rebase before push
-              git pull --rebase --autostash origin $TARGET_BRANCH
-              
-              if git push origin HEAD:$TARGET_BRANCH; then
-                echo "✅ Successfully pushed changes to $TARGET_BRANCH"
-                break
-              else
-                RETRY_COUNT=$((RETRY_COUNT + 1))
-                if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
-                  echo "⚠️ Push failed. Retrying in 5 seconds..."
-                  sleep 5
-                else
-                  echo "❌ Failed to push changes after $MAX_RETRIES attempts."
-                  exit 1
-                fi
-              fi
-            done
-          else
-            echo "No changes to commit in apps.json"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "Checking if apps.json changed:"
+            git diff apps.json || echo "No diff in apps.json"
+            exit 0
           fi
 
-          # Trigger deploy workflow manually since GITHUB_TOKEN doesn't trigger other workflows
-          echo "Triggering Deploy GitHub Pages workflow..."
+          # 1. Commit first to make the tree clean
+          git commit -m "chore: update apps.json for ${TAG:-latest release}" || echo "Nothing to commit"
+
+          # 2. Detect branch for pull/push
+          TARGET_BRANCH=${CURRENT_BRANCH:-main}
+          if [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ]; then
+            TARGET_BRANCH=$(git remote show origin | grep 'HEAD branch' | cut -d' ' -f5 || echo "main")
+          fi
+          echo "Target branch for sync: $TARGET_BRANCH"
+
+          # 3. Pull with rebase and autostash to avoid conflicts, if conflicts occur, assume ours (since we generated from scratch)
+          git pull --rebase --autostash origin $TARGET_BRANCH || (git rebase --skip && git checkout HEAD -- apps.json && git commit --amend --no-edit)
+
+          # 4. Push to the target branch
+          git push origin HEAD:$TARGET_BRANCH --force-with-lease || git push origin HEAD:$TARGET_BRANCH
+
+          # Trigger deploy workflow manually using PAT_TOKEN to propagate workflow runs
           GH_TOKEN=${{ secrets.PAT_TOKEN }} gh workflow run deploy-pages.yml --repo ${{ github.repository }}
