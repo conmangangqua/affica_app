@@ -24,6 +24,17 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       }
+    },
+    {
+      "id": "voicepal",
+      "name": "Voicepal",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/voicepal_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/voicepal_dev.apk"
+      }
     }
   ]
 }
