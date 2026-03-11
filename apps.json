@@ -32,9 +32,7 @@
       "platform": "Android",
       "description": "",
       "features": [],
-      "downloads": {
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/voicepal_prod.apk"
-      }
+      "downloads": {}
     }
   ]
 }
