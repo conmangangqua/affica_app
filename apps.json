@@ -33,7 +33,6 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/voicepal_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/voicepal_prod.apk"
       }
     }
