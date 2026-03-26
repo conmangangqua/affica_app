@@ -13,9 +13,20 @@
       }
     },
     {
+      "id": "flutter_base",
+      "name": "Flutter Base",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/flutter_base_dev.apk"
+      }
+    },
+    {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
