@@ -43,7 +43,7 @@
     .app-icon { width: 100%; height: 100%; border-radius: 22px; object-fit: cover; }
     .badge { font-size: 0.8rem; font-weight: 800; padding: 7px 16px; border-radius: 14px; text-transform: uppercase; margin-bottom: 25px; align-self: center; }
     .badge.android { background: #fef3c7; color: #b45309; border: 1px solid #fde68a; }
-    .badge.ios { background: #fdf2f8; color: #be185d; border: 1px solid #fce7f3; }
+    .badge.ios { background: #dbeafe; color: #1d4ed8; border: 1px solid #bfdbfe; }
     .app-title { font-size: 1.8rem; font-weight: 800; text-align: center; margin-bottom: 12px; color: var(--text-main); letter-spacing: -0.02em; }
     .app-desc { font-size: 1.05rem; color: var(--text-muted); text-align: center; margin-bottom: 35px; flex-grow: 1; font-weight: 500; }
     .btn-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
@@ -61,15 +61,15 @@
 <body>
   <div class="bg-animation"><div class="blob"></div><div class="blob blob-2"></div></div>
   <header><h1>Affica Hub</h1></header>
-  <section class="search-section"><div class="search-wrapper"><input type="text" id="searchInput" placeholder="Tìm ứng dụng hoặc tính năng..." oninput="filterApps()"></div></section>
+  <section class="search-section"><div class="search-wrapper"><input type="text" id="searchInput" placeholder="Search for apps..." oninput="filterApps()"></div></section>
   <main><div id="appContainer"></div></main>
-  <footer><p>&copy; 2026 Affica Hub. Premium Distribution by Platinum Engine.</p></footer>
+  <footer><p>&copy; 2026 Affica Hub. Powered by Platinum Engine.</p></footer>
   <script>
     let allApps = [];
     const formatUrl = (url, isIOS) => url && isIOS ? "itms-services://?action=download-manifest&url=" + encodeURIComponent(url) : url;
     const renderApps = (apps) => {
       const container = document.getElementById("appContainer"); container.innerHTML = "";
-      if (apps.length === 0) { container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 100px; color: var(--text-muted); font-weight: 700; font-size: 1.2rem;">🔍 Không tìm thấy ứng dụng yêu cầu.</div>'; return; }
+      if (apps.length === 0) { container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 100px; color: var(--text-muted); font-weight: 700; font-size: 1.2rem;">🔍 No apps found matching your search.</div>'; return; }
       apps.forEach((app, index) => {
         const isIOS = (app.platform || "").toLowerCase().includes("ios");
         const devUrl = formatUrl(app.downloads?.dev, isIOS);
@@ -78,8 +78,8 @@
         const card = document.createElement("article"); card.className = "app-card"; card.style.animationDelay = `${index * 0.08}s`;
         card.innerHTML = `<div class="app-icon-box"><img src="${app.icon || 'https://via.placeholder.com/150'}" class="app-icon" alt="${app.name}" onerror="this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(app.name)}&background=f59e0b&color=fff'"></div>
           <div class="badge-row"><span class="badge ${isIOS ? 'ios' : 'android'}">${app.platform || 'Android'}</span></div>
-          <h2 class="app-title">${app.name}</h2><p class="app-desc">${app.description || 'Giải pháp di động chuẩn Platinum cho người dùng Affica.'}</p>
-          <div class="btn-grid">${devUrl ? `<a href="${devUrl}" class="btn btn-dev">🔧 Dev Build</a>` : ""} ${prodUrl ? `<a href="${prodUrl}" class="btn btn-live">🚀 Live Build</a>` : ""} ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Cài đặt bộ bản AAB</a>` : ""}</div>`;
+          <h2 class="app-title">${app.name}</h2><p class="app-desc">${app.description || ''}</p>
+          <div class="btn-grid">${devUrl ? `<a href="${devUrl}" class="btn btn-dev">🔧 Dev Build</a>` : ""} ${prodUrl ? `<a href="${prodUrl}" class="btn btn-live">🚀 Live Build</a>` : ""} ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Download AAB</a>` : ""}</div>`;
         container.appendChild(card);
       });
     };
@@ -87,7 +87,7 @@
       const query = document.getElementById("searchInput").value.toLowerCase();
       renderApps(allApps.filter(app => app.name.toLowerCase().includes(query) || (app.description && app.description.toLowerCase().includes(query))));
     };
-    fetch("apps.json").then(res => res.json()).then(data => { allApps = data.apps || []; renderApps(allApps); }).catch(err => { document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; font-weight: 800; text-align: center; grid-column: 1/-1;">❌ Lỗi truy xuất kho ứng dụng.</div>'; });
+    fetch("apps.json").then(res => res.json()).then(data => { allApps = data.apps || []; renderApps(allApps); }).catch(err => { document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; font-weight: 800; text-align: center; grid-column: 1/-1;">❌ Connection error. Please try again later.</div>'; });
   </script>
 </body>
 </html>
