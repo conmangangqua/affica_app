@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": "calorie_fasting_tracker",
+      "name": "Calorie Fasting Tracker",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.yazio_clone"
+    },
+    {
       "id": "fan_call",
       "name": "Fan Call",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
