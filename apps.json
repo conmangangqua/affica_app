@@ -5,7 +5,7 @@
       "name": "Calorie Fasting Tracker",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
       "platform": "Android",
-      "description": "",
+      "description": "Track calories, log meals, and time your intermittent fasting routine with ease.",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk",
@@ -22,7 +22,7 @@
       "name": "Fan Call",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
-      "description": "",
+      "description": "Fake video call & prank chat with your favorite idols. For fun & entertainment.",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_dev.apk",
@@ -39,7 +39,7 @@
       "name": "Lunaai Chat",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
-      "description": "",
+      "description": "Chat with AI friends by text or voice. Pick a persona and start a conversation.",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_dev.apk",
