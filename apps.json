@@ -37,7 +37,7 @@
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -46,7 +46,9 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.0+26031302"
+      },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat"
     }
   ]
