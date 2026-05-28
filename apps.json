@@ -3,76 +3,86 @@
     {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
     {
       "id": "fan_call",
       "name": "Fan Call",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26052001"
+        "dev": "1.0.0+26052001",
+        "prod": "1.0.0+26052001"
       },
       "store": ""
     },
     {
       "id": "goal_pulse",
       "name": "Goal Pulse",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       },
       "versions": {
-        "dev": "1.0.0+26031302"
+        "dev": "1.0.0+26031302",
+        "prod": "1.0.0+26031302"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat"
     },
     {
       "id": "velora_drama",
       "name": "Velora Drama",
-      "icon": "",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/velora_drama_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/velora_drama_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     }
