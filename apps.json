@@ -5,7 +5,7 @@
       "name": "Calorie Fasting Tracker",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
       "platform": "Android",
-      "description": "Calorie & Fasting Tracker — Track calories, log meals, and time your intermittent fasting routine with ease.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_dev.apk",
@@ -22,7 +22,7 @@
       "name": "Fan Call",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
-      "description": "FanCall - Prank Video Call — Fake video call & prank chat with your favorite idols. For fun & entertainment.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_dev.apk",
@@ -37,9 +37,9 @@
     {
       "id": "goal_pulse",
       "name": "Goal Pulse",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_icon.png",
       "platform": "Android",
-      "description": "GoalPulse — Live football scores, fixtures and team stats at a glance.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk",
@@ -56,7 +56,7 @@
       "name": "Lunaai Chat",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
-      "description": "LunaAI: AI Chat Friends & Companion — Chat with AI friends by text or voice. Pick a persona and start a conversation.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_dev.apk",
@@ -74,7 +74,7 @@
       "name": "Velora Drama",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_icon.png",
       "platform": "Android",
-      "description": "Velora Drama — Stream short drama series with vertical swipe navigation.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/velora_drama_dev.apk",
