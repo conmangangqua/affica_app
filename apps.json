@@ -37,15 +37,17 @@
     {
       "id": "goal_pulse",
       "name": "Goal Pulse",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
