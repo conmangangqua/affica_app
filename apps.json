@@ -3,15 +3,17 @@
     {
       "id": "artova",
       "name": "Artova",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_prod.apk"
       },
       "versions": {
-        "dev": "1.0.1+26041601"
+        "dev": "1.0.1+26041601",
+        "prod": "1.0.1+26041601"
       },
       "store": ""
     },
