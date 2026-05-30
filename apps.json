@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": "artova",
+      "name": "Artova",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.1+26041601"
+      },
+      "store": ""
+    },
+    {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
