@@ -106,15 +106,17 @@
     {
       "id": "wave_cleaner",
       "name": "Wave Cleaner",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/wave_cleaner_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/wave_cleaner_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/wave_cleaner_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26053101"
+        "dev": "1.0.0+26053101",
+        "prod": "1.0.0+26053101"
       },
       "store": ""
     }
