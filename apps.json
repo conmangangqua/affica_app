@@ -3,7 +3,7 @@
     {
       "id": "artova",
       "name": "Artova",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -13,7 +13,7 @@
       },
       "versions": {
         "dev": "1.0.0+26053001",
-        "prod": "1.0.1+26041601"
+        "prod": "1.0.0+26053001"
       },
       "store": ""
     },
