@@ -87,6 +87,21 @@
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat"
     },
     {
+      "id": "stikopop",
+      "name": "Stikopop",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/stikopop_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/stikopop_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": ""
+    },
+    {
       "id": "velora_drama",
       "name": "Velora Drama",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_icon.png",
