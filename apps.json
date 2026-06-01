@@ -29,6 +29,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_prod.apk"
       },
       "versions": {
+        "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
       "store": ""
@@ -114,7 +115,8 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
