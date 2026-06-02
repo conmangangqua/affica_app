@@ -35,6 +35,21 @@
       "store": ""
     },
     {
+      "id": "clean_space",
+      "name": "Clean Space",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": ""
+    },
+    {
       "id": "fan_call",
       "name": "Fan Call",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
