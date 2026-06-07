@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": "aegis_vpn",
+      "name": "Aegis Vpn",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/aegis_vpn_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/aegis_vpn_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": ""
+    },
+    {
       "id": "artova",
       "name": "Artova",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/noads/artova_icon.png",
