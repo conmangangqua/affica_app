@@ -14,7 +14,6 @@
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1",
         "noads": "1.0.0+1"
       },
       "store": ""
@@ -156,10 +155,7 @@
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/velora_drama_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_prod.apk"
       },
-      "versions": {
-        "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
-      },
+      "versions": {},
       "store": ""
     },
     {
@@ -175,8 +171,6 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/wave_cleaner_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.0+26053101",
-        "prod": "1.0.0+26053101",
         "noads": "1.0.0+26053101"
       },
       "store": ""
