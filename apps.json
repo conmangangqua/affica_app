@@ -99,6 +99,7 @@
       "description": "",
       "features": [],
       "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_prod.apk"
       },
       "versions": {
