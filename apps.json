@@ -102,24 +102,25 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/goal_pulse.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26061001"
       },
       "store": ""
     },
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       },
       "versions": {
