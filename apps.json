@@ -85,11 +85,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/fan_call.aab"
       },
       "versions": {
         "dev": "1.0.0+26061001",
-        "prod": "1.0.0+26052001"
+        "prod": "1.0.0+26052001",
+        "aab": "1.0.0+26061001"
       },
       "store": ""
     },
