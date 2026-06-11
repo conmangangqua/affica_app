@@ -24,7 +24,7 @@
     {
       "id": "artova",
       "name": "Artova",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -36,7 +36,7 @@
       },
       "versions": {
         "dev": "1.0.0+26061001",
-        "prod": "1.0.0+26053001",
+        "prod": "1.0.0+26061001",
         "aab": "1.0.0+26061001",
         "noads": "1.0.0+26053001"
       },
