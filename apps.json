@@ -117,6 +117,21 @@
       "store": ""
     },
     {
+      "id": "locato",
+      "name": "Locato",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/locato_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/locato_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+5"
+      },
+      "store": ""
+    },
+    {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
