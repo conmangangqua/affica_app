@@ -195,7 +195,7 @@
     {
       "id": "wave_cleaner",
       "name": "Wave Cleaner",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/wave_cleaner_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
