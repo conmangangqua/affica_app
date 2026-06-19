@@ -81,7 +81,7 @@
     {
       "id": "fan_call",
       "name": "Fan Call",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -91,7 +91,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/fan_call.aab"
       },
       "versions": {
-        "dev": "1.0.0+26061801",
+        "dev": "1.0.0+26061901",
         "prod": "1.0.0+26061801",
         "aab": "1.0.0+26061401"
       },
