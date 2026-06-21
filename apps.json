@@ -95,7 +95,7 @@
         "prod": "1.0.0+26061901",
         "aab": "1.0.0+26061401"
       },
-      "store": ""
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall"
     },
     {
       "id": "goal_pulse",
@@ -155,15 +155,17 @@
     {
       "id": "mochi_chat",
       "name": "Mochi Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/mochi_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/mochi_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/mochi_chat_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/mochi_chat_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/mochi_chat_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
