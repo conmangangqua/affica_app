@@ -45,7 +45,7 @@
     {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -242,7 +242,6 @@
       "versions": {
         "dev": "1.0.0+26061401",
         "prod": "1.0.0+26061401",
-        "aab": "1.0.0+26061801",
         "noads": "1.0.0+26053101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner"
