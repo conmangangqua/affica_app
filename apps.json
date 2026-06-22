@@ -45,7 +45,7 @@
     {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calorie_fasting_tracker_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -62,7 +62,7 @@
     {
       "id": "clean_space",
       "name": "Clean Space",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
