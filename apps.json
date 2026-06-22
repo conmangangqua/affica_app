@@ -14,7 +14,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/aegis_vpn_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26061001",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26061001",
         "noads": "1.0.0+1"
@@ -250,7 +250,7 @@
     {
       "id": "yuki_chat",
       "name": "Yuki Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/yuki_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
