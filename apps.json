@@ -19,7 +19,9 @@
         "aab": "1.0.0+26061001",
         "noads": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "artova",
@@ -40,7 +42,9 @@
         "aab": "1.0.0+26061001",
         "noads": "1.0.0+26053001"
       },
-      "store": ""
+      "store": "",
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -57,7 +61,9 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Health & Fitness",
+      "category_source": "store"
     },
     {
       "id": "clean_space",
@@ -76,7 +82,9 @@
         "prod": "1.0.0+1",
         "noads": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "fan_call",
@@ -95,7 +103,9 @@
         "prod": "1.0.0+26061901",
         "aab": "1.0.0+26061401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "goal_pulse",
@@ -114,7 +124,9 @@
         "prod": "1.0.1+26061601",
         "aab": "1.0.0+26061501"
       },
-      "store": ""
+      "store": "",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "locato",
@@ -131,7 +143,9 @@
         "dev": "1.0.0+5",
         "prod": "1.0.0+5"
       },
-      "store": ""
+      "store": "",
+      "category": "Maps & Navigation",
+      "category_source": "store"
     },
     {
       "id": "lunaai_chat",
@@ -150,7 +164,9 @@
         "prod": "1.0.2+26061501",
         "aab": "1.0.2+26061501"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "mochi_chat",
@@ -167,7 +183,9 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Communication",
+      "category_source": "store"
     },
     {
       "id": "stikopop",
@@ -188,7 +206,9 @@
         "aab": "1.0.0+26061401",
         "noads": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "swift_secure_vpn",
@@ -205,7 +225,9 @@
         "dev": "1.0.3+26012601",
         "prod": "1.0.3+26012601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "velora_drama",
@@ -224,7 +246,9 @@
         "prod": "1.0.1+26061001",
         "aab": "1.0.0+26062101"
       },
-      "store": ""
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "wave_cleaner",
@@ -245,7 +269,9 @@
         "aab": "1.0.0+26061801",
         "noads": "1.0.0+26053101"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "yuki_chat",
@@ -262,7 +288,9 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": ""
+      "store": "",
+      "category": "Communication",
+      "category_source": "store"
     }
   ]
 }
