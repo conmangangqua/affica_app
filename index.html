@@ -318,7 +318,7 @@
       renderApps(allApps.filter(app => app.name.toLowerCase().includes(query) || (app.description && app.description.toLowerCase().includes(query))));
     };
     Promise.all([
-      fetch("apps.json").then(res => res.json()).catch(() => ({apps: []})),
+      fetch("apps.json?t=" + Date.now()).then(res => res.json()).catch(() => ({apps: []})),
       fetch("versions.json").then(res => res.ok ? res.json() : {apps:{}}).catch(() => ({apps:{}}))
     ]).then(([data, vdata]) => {
       const versions = (vdata && vdata.apps) || {};
