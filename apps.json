@@ -150,7 +150,7 @@
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -160,7 +160,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       },
       "versions": {
-        "dev": "1.0.2+26061501",
+        "dev": "1.0.3+26062401",
         "prod": "1.0.2+26061501",
         "aab": "1.0.2+26061501"
       },
