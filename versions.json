@@ -1,10 +1,30 @@
 {
-  "generated_at": "2026-06-12T21:34:50",
+  "generated_at": "2026-06-24T22:38:13",
   "apps": {
     "lunaai_chat": {
-      "updated_on": "Jun 12, 2026",
-      "updated_ts": 1781245170,
+      "updated_on": "Jun 15, 2026",
+      "updated_ts": null,
       "package_id": "com.tmt.lunaai.chat"
+    },
+    "fan_call": {
+      "updated_on": "Jun 14, 2026",
+      "updated_ts": 1781443447,
+      "package_id": "com.tranquiltmt.fancall"
+    },
+    "wave_cleaner": {
+      "updated_on": "Jun 16, 2026",
+      "updated_ts": 1781581302,
+      "package_id": "com.tranquiltmt.wavecleaner"
+    },
+    "swift_secure_vpn": {
+      "updated_on": "Jan 15, 2026",
+      "updated_ts": 1768471496,
+      "package_id": "com.tmt.vpn.connection"
+    },
+    "goal_pulse": {
+      "updated_on": "Jun 15, 2026",
+      "updated_ts": 1781502770,
+      "package_id": "com.tranquilpartner.goalpulse"
     }
   }
 }
