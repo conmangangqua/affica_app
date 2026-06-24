@@ -219,11 +219,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/swift_secure_vpn_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/swift_secure_vpn.aab"
       },
       "versions": {
         "dev": "1.0.4+26062401",
-        "prod": "1.0.4+26062301"
+        "prod": "1.0.4+26062301",
+        "aab": "1.0.4+26062401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
       "category": "VPN",
