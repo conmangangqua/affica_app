@@ -213,7 +213,7 @@
     {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/swift_secure_vpn_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -223,7 +223,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/swift_secure_vpn.aab"
       },
       "versions": {
-        "dev": "1.0.4+26062401",
+        "dev": "1.0.4+26062501",
         "prod": "1.0.4+26062401",
         "aab": "1.0.4+26062401"
       },
