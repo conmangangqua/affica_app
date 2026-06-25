@@ -162,7 +162,7 @@
       "versions": {
         "dev": "1.0.3+26062501",
         "prod": "1.0.3+26062401",
-        "aab": "1.0.3+26062401"
+        "aab": "1.0.3+26062501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat",
       "category": "AI Chat",
