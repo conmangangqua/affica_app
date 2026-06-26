@@ -225,7 +225,7 @@
       "versions": {
         "dev": "1.0.5+26062601",
         "prod": "1.0.4+26062501",
-        "aab": "1.0.4+26062401"
+        "aab": "1.0.5+26062601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
       "category": "VPN",
