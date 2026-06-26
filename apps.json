@@ -89,7 +89,7 @@
     {
       "id": "fan_call",
       "name": "Fan Call",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -100,7 +100,7 @@
       },
       "versions": {
         "dev": "1.0.1+26062601",
-        "prod": "1.0.0+26061901",
+        "prod": "1.0.1+26062601",
         "aab": "1.0.0+26061401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
@@ -150,13 +150,12 @@
     {
       "id": "lunaai_chat",
       "name": "Lunaai Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/lunaai_chat_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/lunaai_chat.aab"
       },
       "versions": {
