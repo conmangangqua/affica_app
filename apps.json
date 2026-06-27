@@ -75,6 +75,7 @@
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/clean_space.aab",
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/clean_space_dev_noads.apk"
       },
       "versions": {
