@@ -215,7 +215,7 @@
     {
       "id": "velora_drama",
       "name": "Velora Drama",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/velora_drama_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/velora_drama_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -226,7 +226,7 @@
       },
       "versions": {
         "dev": "1.0.1+26062701",
-        "prod": "1.0.1+26061001",
+        "prod": "1.0.1+26062701",
         "aab": "1.0.0+26062101"
       },
       "store": "",
