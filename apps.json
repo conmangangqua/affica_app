@@ -20,8 +20,8 @@
         "noads": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "VPN",
+      "category_source": "rule"
     },
     {
       "id": "artova",
@@ -43,8 +43,8 @@
         "noads": "1.0.0+26053001"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -62,8 +62,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Health & Fitness",
+      "category_source": "store"
     },
     {
       "id": "clean_space",
@@ -85,8 +85,8 @@
         "noads": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "fan_call",
@@ -146,8 +146,8 @@
         "prod": "1.0.0+5"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Maps & Navigation",
+      "category_source": "store"
     },
     {
       "id": "lunaai_chat",
@@ -167,8 +167,8 @@
         "aab": "1.0.3+26062501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat",
-      "category": null,
-      "category_source": null
+      "category": "AI Chat",
+      "category_source": "rule"
     },
     {
       "id": "stikopop",
@@ -190,8 +190,8 @@
         "noads": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "swift_secure_vpn",
@@ -211,8 +211,8 @@
         "aab": "1.0.5+26062601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
-      "category": null,
-      "category_source": null
+      "category": "VPN",
+      "category_source": "rule"
     },
     {
       "id": "velora_drama",
@@ -232,8 +232,8 @@
         "aab": "1.0.0+26062101"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "wave_cleaner",
@@ -255,8 +255,8 @@
         "noads": "1.0.0+26053101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "yuki_chat",
@@ -276,8 +276,8 @@
         "aab": "1.0.0+26062701"
       },
       "store": "",
-      "category": null,
-      "category_source": null
+      "category": "AI Chat",
+      "category_source": "rule"
     }
   ]
 }
