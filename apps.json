@@ -10,7 +10,6 @@
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/artova_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_prod.apk",
-        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/artova.aab",
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/artova_dev_noads.apk"
       },
       "versions": {
@@ -64,6 +63,23 @@
       "store": "",
       "category": "Cleaner & Booster",
       "category_source": "rule"
+    },
+    {
+      "id": "dramio",
+      "name": "Dramio",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramio_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramio_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.1+26062701"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "fan_call",
