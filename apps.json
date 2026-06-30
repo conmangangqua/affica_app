@@ -74,11 +74,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramio_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramio_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramio_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/dramio.aab"
       },
       "versions": {
         "dev": "1.0.1+26062701",
-        "prod": "1.0.1+26062701"
+        "prod": "1.0.1+26062701",
+        "aab": "1.0.1+26062701"
       },
       "store": "",
       "category": null,
