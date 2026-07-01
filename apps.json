@@ -24,23 +24,6 @@
       "category_source": null
     },
     {
-      "id": "calliq",
-      "name": "Calliq",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/calliq_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calliq_dev.apk"
-      },
-      "versions": {
-        "dev": "1.0.0+1"
-      },
-      "store": "",
-      "category": null,
-      "category_source": null
-    },
-    {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
