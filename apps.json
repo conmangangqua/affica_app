@@ -186,6 +186,23 @@
       "category_source": null
     },
     {
+      "id": "phonix",
+      "name": "Phonix",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/phonix_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/phonix_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "stikopop",
       "name": "Stikopop",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/stikopop_icon.png",
