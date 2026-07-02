@@ -345,7 +345,7 @@
       fetch("versions.json").then(res => res.ok ? res.json() : {apps:{}}).catch(() => ({apps:{}}))
     ]).then(([data, vdata]) => {
       const versions = (vdata && vdata.apps) || {};
-      allApps = (data.apps || []).map(a => ({...a, storeUpdated: versions[a.id]?.updated_on || null}));
+      allApps = (data.apps || []).map(a => ({...a, storeUpdated: a.store_updated || versions[a.id]?.updated_on || null}));
       allApps.sort((a,b) => (b.store ? 1 : 0) - (a.store ? 1 : 0));
       buildCategoryChips(); renderApps(allApps); window.lucide && lucide.createIcons(); runHealthCheck(); enrichCardDescriptions(); window.lucide && lucide.createIcons(); autoOpenFromUrl();
     }).catch(err => { document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; font-weight: 800; text-align: center; grid-column: 1/-1;">❌ Connection error. Please try again later.</div>'; });
