@@ -293,7 +293,7 @@
       "versions": {
         "dev": "1.0.0+26062701",
         "prod": "1.0.0+26062701",
-        "aab": "1.0.0+26062701"
+        "aab": "1.0.1+26070301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": null,
