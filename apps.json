@@ -281,7 +281,7 @@
     {
       "id": "yuki_chat",
       "name": "Yuki Chat",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/yuki_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
