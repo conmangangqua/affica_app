@@ -49,7 +49,7 @@
     {
       "id": "clean_space",
       "name": "Clean Space",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -60,7 +60,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/clean_space_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.0+26062701",
+        "dev": "1.0.0+26062703",
         "prod": "1.0.0+26062701",
         "aab": "1.0.0+26062703",
         "noads": "1.0.0+1"
