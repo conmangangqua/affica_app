@@ -20,8 +20,8 @@
         "noads": "1.0.0+26053001"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Photography",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
@@ -41,8 +41,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Health & Fitness",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
@@ -62,8 +62,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Entertainment",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
@@ -86,9 +86,9 @@
         "aab": "1.0.0+26062703",
         "noads": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
-      "category": null,
-      "category_source": null,
+      "store": "",
+      "category": "Cleaner & Booster",
+      "category_source": "rule",
       "store_updated": null,
       "store_version": null
     },
@@ -110,8 +110,8 @@
         "aab": "1.0.1+26063001"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Streaming",
+      "category_source": "rule",
       "store_updated": null,
       "store_version": null
     },
@@ -135,8 +135,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
       "category": null,
       "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jun 29, 2026",
+      "store_version": "26062901 (1.0.1)"
     },
     {
       "id": "goal_pulse",
@@ -155,7 +155,7 @@
         "prod": "1.0.1+26061601",
         "aab": "1.0.1+26061601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
+      "store": "",
       "category": null,
       "category_source": null,
       "store_updated": null,
@@ -177,8 +177,8 @@
         "prod": "1.0.0+5"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Maps & Navigation",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
@@ -200,10 +200,10 @@
         "aab": "1.0.3+26062601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat",
-      "category": null,
-      "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "category": "AI Chat",
+      "category_source": "rule",
+      "store_updated": "Jun 29, 2026",
+      "store_version": "26062601 (1.0.3)"
     },
     {
       "id": "phonix",
@@ -221,8 +221,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Caller ID",
+      "category_source": "rule",
       "store_updated": null,
       "store_version": null
     },
@@ -246,8 +246,8 @@
         "noads": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Photography",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
@@ -269,10 +269,10 @@
         "aab": "1.0.5+26062601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
-      "category": null,
-      "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "category": "VPN",
+      "category_source": "rule",
+      "store_updated": "Jun 28, 2026",
+      "store_version": "26062601 (1.0.5)"
     },
     {
       "id": "wave_cleaner",
@@ -294,10 +294,10 @@
         "noads": "1.0.0+26053101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner",
-      "category": null,
-      "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule",
+      "store_updated": "Jul 2, 2026",
+      "store_version": "26062301 (1.0.1)"
     },
     {
       "id": "yuki_chat",
@@ -317,9 +317,9 @@
         "aab": "1.0.1+26070301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
-      "category": null,
-      "category_source": null,
-      "store_updated": null,
+      "category": "AI Chat",
+      "category_source": "rule",
+      "store_updated": "Jun 27, 2026",
       "store_version": null
     }
   ]
