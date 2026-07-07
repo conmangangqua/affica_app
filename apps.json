@@ -245,11 +245,11 @@
         "aab": "1.0.0+26061401",
         "noads": "1.0.0+1"
       },
-      "store": "",
-      "category": "Photography",
+      "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
+      "category": "Personalization",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jun 19, 2026",
+      "store_version": "26061401 (1.0.0)"
     },
     {
       "id": "swift_secure_vpn",
