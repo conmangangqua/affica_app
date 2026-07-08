@@ -19,11 +19,11 @@
         "aab": "1.0.0+26070301",
         "noads": "1.0.0+26053001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.artova",
       "category": "Photography",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jun 30, 2026",
+      "store_version": "26063001 (1.0.0)"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -231,7 +231,7 @@
     {
       "id": "stikopop",
       "name": "Stikopop",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/stikopop_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/stikopop_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
