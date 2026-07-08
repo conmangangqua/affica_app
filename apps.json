@@ -141,7 +141,7 @@
     {
       "id": "goal_pulse",
       "name": "Goal Pulse",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -322,7 +322,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Jul 5, 2026",
-      "store_version": null
+      "store_version": "26070301 (1.0.1)"
     }
   ]
 }
