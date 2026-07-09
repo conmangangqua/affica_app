@@ -164,7 +164,7 @@
     {
       "id": "locato",
       "name": "Locato",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/locato_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/locato_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -174,7 +174,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/locato.aab"
       },
       "versions": {
-        "dev": "1.0.0+26070904",
+        "dev": "1.0.0+26071001",
         "prod": "1.0.0+26070904",
         "aab": "1.0.0+26071001"
       },
