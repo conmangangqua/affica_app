@@ -174,9 +174,9 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/locato.aab"
       },
       "versions": {
-        "dev": "1.0.0+26070903",
+        "dev": "1.0.0+26070904",
         "prod": "1.0.0+26070902",
-        "aab": "1.0.0+26070903"
+        "aab": "1.0.0+26070904"
       },
       "store": "",
       "category": "Maps & Navigation",
