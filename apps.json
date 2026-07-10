@@ -308,7 +308,7 @@
     {
       "id": "yuki_chat",
       "name": "Yuki: AI Chat Companion",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/yuki_chat_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -318,7 +318,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/yuki_chat.aab"
       },
       "versions": {
-        "dev": "1.0.1+26070301",
+        "dev": "1.0.2+26071001",
         "prod": "1.0.1+26070301",
         "aab": "1.0.1+26070301"
       },
