@@ -71,7 +71,7 @@
     },
     {
       "id": "clean_space",
-      "name": "Clean Space",
+      "name": "Clean Space: Photo Cleaner",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_icon.png",
       "platform": "Android",
       "description": "",
@@ -119,7 +119,7 @@
     },
     {
       "id": "fan_call",
-      "name": "Fan Call",
+      "name": "FanCall - Prank Video Call",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
       "description": "",
@@ -142,7 +142,7 @@
     },
     {
       "id": "goal_pulse",
-      "name": "Goal Pulse",
+      "name": "GoalPulse: Live Soccer Scores",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
       "platform": "Android",
       "description": "",
@@ -188,7 +188,7 @@
     },
     {
       "id": "lunaai_chat",
-      "name": "Lunaai Chat",
+      "name": "LunaAI: My Dreamgirl Chat",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png",
       "platform": "Android",
       "description": "",
@@ -234,7 +234,7 @@
     },
     {
       "id": "stikopop",
-      "name": "Stikopop",
+      "name": "Stikopop: Sticker Maker & Pack",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/stikopop_icon.png",
       "platform": "Android",
       "description": "",
@@ -259,7 +259,7 @@
     },
     {
       "id": "swift_secure_vpn",
-      "name": "Swift Secure Vpn",
+      "name": "Swift Secure VPN",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_icon.png",
       "platform": "Android",
       "description": "",
@@ -282,7 +282,7 @@
     },
     {
       "id": "wave_cleaner",
-      "name": "Wave Cleaner",
+      "name": "Wave: Speaker Cleaner & Eject",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_icon.png",
       "platform": "Android",
       "description": "",
@@ -307,7 +307,7 @@
     },
     {
       "id": "yuki_chat",
-      "name": "Yuki Chat",
+      "name": "Yuki: AI Chat Companion",
       "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png",
       "platform": "Android",
       "description": "",
