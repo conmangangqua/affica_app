@@ -120,7 +120,7 @@
     {
       "id": "fan_call",
       "name": "FanCall - Prank Video Call",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
