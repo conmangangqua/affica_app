@@ -235,7 +235,7 @@
     {
       "id": "stikopop",
       "name": "Stikopop: Sticker Maker & Pack",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/stikopop_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/stikopop_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -246,7 +246,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/stikopop_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.0+26061901",
+        "dev": "1.0.1+26071201",
         "prod": "1.0.0+26061901",
         "aab": "1.0.0+26061401",
         "noads": "1.0.0+1"
