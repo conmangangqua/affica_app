@@ -72,7 +72,7 @@
     {
       "id": "clean_space",
       "name": "Clean Space: Photo Cleaner",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/clean_space_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -83,7 +83,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/clean_space_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.0+26062703",
+        "dev": "1.0.1+26071301",
         "prod": "1.0.0+26062703",
         "aab": "1.0.0+26062703",
         "noads": "1.0.0+1"
@@ -180,7 +180,7 @@
         "prod": "1.0.0+26071001",
         "aab": "1.0.0+26071001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
       "category_source": "store",
       "store_updated": null,
