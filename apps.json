@@ -92,7 +92,7 @@
       "category": "Cleaner & Booster",
       "category_source": "rule",
       "store_updated": "Jun 27, 2026",
-      "store_version": null
+      "store_version": "26062703 (1.0.0)"
     },
     {
       "id": "dramio",
@@ -184,7 +184,7 @@
       "category": "Maps & Navigation",
       "category_source": "store",
       "store_updated": "Jul 9, 2026",
-      "store_version": null
+      "store_version": "26071001 (1.0.0)"
     },
     {
       "id": "lunaai_chat",
