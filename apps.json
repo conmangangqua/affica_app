@@ -97,7 +97,7 @@
     {
       "id": "dramio",
       "name": "Dramio",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramio_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramio_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -108,7 +108,7 @@
       },
       "versions": {
         "dev": "1.0.2+26071401",
-        "prod": "1.0.1+26063001",
+        "prod": "1.0.2+26071401",
         "aab": "1.0.1+26063001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
