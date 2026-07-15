@@ -63,10 +63,10 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26071001"
       },
-      "store": "",
-      "category": "Entertainment",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
+      "category": "Lifestyle",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Jul 12, 2026",
       "store_version": null
     },
     {
