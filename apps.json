@@ -212,7 +212,7 @@
     {
       "id": "phonix",
       "name": "Phonix",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/phonix_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/phonix_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -222,7 +222,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/phonix.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26071001",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26071001"
       },
