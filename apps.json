@@ -41,8 +41,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "Health & Fitness",
-      "category_source": "store",
+      "category": null,
+      "category_source": null,
       "store_updated": null,
       "store_version": null
     },
