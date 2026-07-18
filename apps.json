@@ -251,11 +251,11 @@
         "aab": "1.0.0+26061401",
         "noads": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
+      "store": "",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Jun 19, 2026",
-      "store_version": "26061401 (1.0.0)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "swift_secure_vpn",
@@ -322,11 +322,11 @@
         "prod": "1.0.2+26071001",
         "aab": "1.0.2+26071001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
+      "store": "",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": "Jul 10, 2026",
-      "store_version": "26071001 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }
