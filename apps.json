@@ -143,7 +143,7 @@
     {
       "id": "goal_pulse",
       "name": "GoalPulse: Live Soccer Scores",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/goal_pulse_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
