@@ -180,11 +180,11 @@
         "prod": "1.0.1+26071401",
         "aab": "1.0.0+26071001"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 9, 2026",
+      "store_version": "26071001 (1.0.0)"
     },
     {
       "id": "lunaai_chat",
@@ -248,7 +248,7 @@
       "versions": {
         "dev": "1.0.1+26071201",
         "prod": "1.0.1+26071201",
-        "aab": "1.0.0+26061401",
+        "aab": "1.0.1+26071201",
         "noads": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
