@@ -132,7 +132,7 @@
       "versions": {
         "dev": "1.0.1+26062901",
         "prod": "1.0.1+26062901",
-        "aab": "1.0.1+26062901"
+        "aab": "1.0.1+26072201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
       "category": null,
@@ -314,7 +314,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/yuki_chat_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/yuki_chat.aab"
       },
       "versions": {
         "dev": "1.0.2+26071001",
