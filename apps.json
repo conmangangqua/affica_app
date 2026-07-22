@@ -114,13 +114,13 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": "Jul 4, 2026",
+      "store_updated": "Jul 21, 2026",
       "store_version": "26071401 (1.0.2)"
     },
     {
       "id": "fan_call",
       "name": "FanCall - Prank Video Call",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/fan_call_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -130,7 +130,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/fan_call.aab"
       },
       "versions": {
-        "dev": "1.0.1+26062901",
+        "dev": "1.0.1+26072201",
         "prod": "1.0.1+26062901",
         "aab": "1.0.1+26072201"
       },
