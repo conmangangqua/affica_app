@@ -61,7 +61,7 @@
       "versions": {
         "dev": "1.0.1+26071701",
         "prod": "1.0.1+26071701",
-        "aab": "1.0.1+26072201"
+        "aab": "1.0.1+26072301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
       "category": "Lifestyle",
@@ -226,11 +226,11 @@
         "prod": "1.0.1+26071701",
         "aab": "1.0.1+26072101"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
+      "store": "",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Jul 11, 2026",
-      "store_version": "26071001 (1.0.0)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "stikopop",
