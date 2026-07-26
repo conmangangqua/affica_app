@@ -251,16 +251,16 @@
         "aab": "1.0.2+26072301",
         "noads": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 23, 2026",
+      "store_version": "26072301 (1.0.2)"
     },
     {
       "id": "swift_secure_vpn",
       "name": "Swift Secure VPN",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_icon.png",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/dev/swift_secure_vpn_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -270,7 +270,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/swift_secure_vpn.aab"
       },
       "versions": {
-        "dev": "1.0.5+26062601",
+        "dev": "1.0.6+26072301",
         "prod": "1.0.5+26062601",
         "aab": "1.0.6+26072301"
       },
