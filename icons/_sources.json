@@ -1,0 +1,58 @@
+{
+  "artova": {
+    "sha": "0aa03e3c8d4901baf96950b193224888012b2ffbabb95380fc869466fe3268ae",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/artova_icon.png"
+  },
+  "calorie_fasting_tracker": {
+    "sha": "a4b6b6a4b38afcecb2ff8562502e7abba6e9984933c83598e7cfd78963848c31",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png"
+  },
+  "celebring": {
+    "sha": "bbdf4f5ead0a5763a040f6873051d91b84f89b059b58d88945284990f1298264",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/celebring_icon.png"
+  },
+  "clean_space": {
+    "sha": "355c878ff87e13559c45d7ff5eaeb4dd4a284981b3860793e6ed07ba456c8b92",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/clean_space_icon.png"
+  },
+  "dramio": {
+    "sha": "92e7813af82ad781003c972ea5fe2f01220d92291543d432b6ae57312e225020",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramio_icon.png"
+  },
+  "fan_call": {
+    "sha": "75bd28af5e45938e8e1d2fe59f0e876d7f80f334b54c1fa265ef9019f1b6021b",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/fan_call_icon.png"
+  },
+  "goal_pulse": {
+    "sha": "5de13fad3cc203ae13d862ad1376f1b015fdb64815edb1db6dbf27103c5e38fb",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/goal_pulse_icon.png"
+  },
+  "locato": {
+    "sha": "049bd0f2c9bc61de94a784b9c2febab537b246fe222492dc6cbfa4c81c94e442",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/locato_icon.png"
+  },
+  "lunaai_chat": {
+    "sha": "79dc93234b610a2ab7ca62327f9cc4d4792e761c4f422036096311a3c3b6b69e",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/lunaai_chat_icon.png"
+  },
+  "phonix": {
+    "sha": "0b5dc8715cb38bfab8c49dbb29198ce65214476123dd90900649ace58a057b80",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/phonix_icon.png"
+  },
+  "stikopop": {
+    "sha": "00bf132443ec90f130a69d759e488138a01b231f4d5b3c036a4e79491ed51cba",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/stikopop_icon.png"
+  },
+  "swift_secure_vpn": {
+    "sha": "4d361a957b27f9217690f13c547689c0e56f45aeac1cafb60bdc28b235ddde29",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/swift_secure_vpn_icon.png"
+  },
+  "wave_cleaner": {
+    "sha": "3c366790e06a66c8fea5fdace5c7906e5dc1a07e4ca695835de3ad88dd03323b",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_icon.png"
+  },
+  "yuki_chat": {
+    "sha": "f406c87f6db895aef76bb190fc65919eac193cefc5275cf7b66e7f8482e6f930",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png"
+  }
+}
