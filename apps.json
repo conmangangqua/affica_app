@@ -270,9 +270,9 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/swift_secure_vpn.aab"
       },
       "versions": {
-        "dev": "1.0.6+26072301",
+        "dev": "1.0.7+26072801",
         "prod": "1.0.6+26072301",
-        "aab": "1.0.6+26072301"
+        "aab": "1.0.7+26072801"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
       "category": "VPN",
