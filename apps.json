@@ -272,13 +272,13 @@
       "versions": {
         "dev": "1.0.7+26072801",
         "prod": "1.0.7+26072801",
-        "aab": "1.0.7+26072801"
+        "aab": "1.0.7+26072901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
       "category": "VPN",
       "category_source": "rule",
-      "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.6)"
+      "store_updated": "Jul 28, 2026",
+      "store_version": "26072801 (1.0.7)"
     },
     {
       "id": "wave_cleaner",
@@ -326,7 +326,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Jul 10, 2026",
-      "store_version": "26072301 (1.0.3)"
+      "store_version": "26072801 (1.0.3)"
     }
   ]
 }
