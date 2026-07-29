@@ -54,5 +54,9 @@
   "yuki_chat": {
     "sha": "f406c87f6db895aef76bb190fc65919eac193cefc5275cf7b66e7f8482e6f930",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/yuki_chat_icon.png"
+  },
+  "snapisode": {
+    "sha": "14d363f30deef55574279ef0aa9bd0f1a19cf9e1a0211ed83455c7c935e89523",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/snapisode_icon.png"
   }
 }
