@@ -233,6 +233,25 @@
       "store_version": "26073002 (1.0.1)"
     },
     {
+      "id": "reelure",
+      "name": "Reelure",
+      "icon": "icons/reelure.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/reelure_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "store",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "snapisode",
       "name": "Snapisode",
       "icon": "icons/snapisode.webp",

@@ -58,5 +58,9 @@
   "snapisode": {
     "sha": "14d363f30deef55574279ef0aa9bd0f1a19cf9e1a0211ed83455c7c935e89523",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/snapisode_icon.png"
+  },
+  "reelure": {
+    "sha": "0769831b15438e56b89ce12c089df0a0383ca08a3f413d2cacf5b1bce8b715dc",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/reelure_icon.png"
   }
 }
