@@ -62,5 +62,9 @@
   "reelure": {
     "sha": "0769831b15438e56b89ce12c089df0a0383ca08a3f413d2cacf5b1bce8b715dc",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/reelure_icon.png"
+  },
+  "chapture": {
+    "sha": "9d6994e42b437acd9050fb66028b29d056ff75978d7b94b9aeb23c345fd8368f",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapture_icon.png"
   }
 }

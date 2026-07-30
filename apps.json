@@ -70,6 +70,25 @@
       "store_version": "26072301 (1.0.1)"
     },
     {
+      "id": "chapture",
+      "name": "Chapture",
+      "icon": "icons/chapture.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapture_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "clean_space",
       "name": "Clean Space: Photo Cleaner",
       "icon": "icons/clean_space.webp",
