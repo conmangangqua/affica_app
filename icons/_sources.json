@@ -66,5 +66,9 @@
   "chapture": {
     "sha": "9d6994e42b437acd9050fb66028b29d056ff75978d7b94b9aeb23c345fd8368f",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapture_icon.png"
+  },
+  "plotwist": {
+    "sha": "49b25d157b742c660f51b74605a16c141b78d22e236b7046a297c6015e187458",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/plotwist_icon.png"
   }
 }

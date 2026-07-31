@@ -254,6 +254,25 @@
       "store_version": "26073002 (1.0.1)"
     },
     {
+      "id": "plotwist",
+      "name": "Plotwist",
+      "icon": "icons/plotwist.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/plotwist_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "reelure",
       "name": "Reelure",
       "icon": "icons/reelure.webp",
