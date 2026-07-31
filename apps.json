@@ -128,7 +128,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/dramio.aab"
       },
       "versions": {
-        "dev": "1.0.3+26072501",
+        "dev": "1.0.3+26073101",
         "prod": "1.0.3+26072501",
         "aab": "1.0.3+26072501"
       },
@@ -269,8 +269,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Entertainment",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },
