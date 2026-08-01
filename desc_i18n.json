@@ -18,5 +18,57 @@
  "clean_space": {
   "en": "Storage cleaner to clear cache, duplicate photos, videos and unused apps.",
   "vi": "Trình dọn dẹp bộ nhớ để xóa bộ nhớ đệm, ảnh, video trùng lặp và các ứng dụng không sử dụng."
+ },
+ "dramio": {
+  "en": "Short drama series with binge-worthy vertical episodes and new chapters daily",
+  "vi": "Loạt phim truyền hình ngắn với các tập dọc hấp dẫn và các chương mới hàng ngày"
+ },
+ "fan_call": {
+  "en": "Fake video call & prank chat with your favorite idols. For fun & entertainment.",
+  "vi": "Cuộc gọi video giả và trò chuyện chơi khăm với thần tượng yêu thích của bạn. Để vui vẻ và giải trí."
+ },
+ "goal_pulse": {
+  "en": "Live football scores, fixtures & World Cup hub in one clean app.",
+  "vi": "Tỷ số bóng đá trực tiếp, lịch thi đấu và trung tâm World Cup trong một ứng dụng sạch."
+ },
+ "locato": {
+  "en": "GPS phone tracker to share location with family in real time safely",
+  "vi": "Trình theo dõi điện thoại GPS để chia sẻ vị trí với gia đình trong thời gian thực một cách an toàn"
+ },
+ "lunaai_chat": {
+  "en": "AI chatbot in your pocket: voice, image and text chat anytime.",
+  "vi": "Chatbot AI trong túi của bạn: trò chuyện bằng giọng nói, hình ảnh và văn bản bất cứ lúc nào."
+ },
+ "phonix": {
+  "en": "Recover call logs, track messenger notifications and block spam callers fast.",
+  "vi": "Khôi phục nhật ký cuộc gọi, theo dõi thông báo trên tin nhắn và chặn người gọi spam nhanh chóng."
+ },
+ "plotwist": {
+  "en": "Vertical short dramas where every episode ends on a twist you never saw coming.",
+  "vi": "Những bộ phim truyền hình ngắn theo chiều dọc trong đó mỗi tập đều kết thúc theo một tình tiết mà bạn chưa từng thấy sắp xảy ra."
+ },
+ "reelure": {
+  "en": "Stream vertical short dramas — binge bite-size episodes in minutes.",
+  "vi": "Phát trực tuyến các bộ phim truyền hình ngắn theo chiều dọc — các tập phim dài tập hấp dẫn trong vài phút."
+ },
+ "snapisode": {
+  "en": "Binge vertical short dramas — one snap, one episode, finish in a blink.",
+  "vi": "Những bộ phim truyền hình dài tập ngắn theo chiều dọc - một tích tắc, một tập phim, kết thúc trong nháy mắt."
+ },
+ "stikopop": {
+  "en": "Sticker maker for pop-culture packs to share in any chat fast.",
+  "vi": "Trình tạo nhãn dán dành cho các gói văn hóa đại chúng để chia sẻ nhanh chóng trong bất kỳ cuộc trò chuyện nào."
+ },
+ "swift_secure_vpn": {
+  "en": "Secure VPN proxy that encrypts your connection for safer, private browsing.",
+  "vi": "Proxy VPN bảo mật mã hóa kết nối của bạn để duyệt web riêng tư, an toàn hơn."
+ },
+ "wave_cleaner": {
+  "en": "Eject water from your speaker",
+  "vi": "Đẩy nước ra khỏi loa của bạn"
+ },
+ "yuki_chat": {
+  "en": "AI chat companion for real talks, voice notes and quick answers",
+  "vi": "Người bạn đồng hành trò chuyện AI để có những cuộc nói chuyện thực sự, ghi chú bằng giọng nói và câu trả lời nhanh"
  }
 }
