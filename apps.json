@@ -403,14 +403,14 @@
       },
       "versions": {
         "dev": "1.0.4+26080302",
-        "prod": "1.0.4+26080301",
+        "prod": "1.0.4+26080302",
         "aab": "1.0.4+26080302"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Jul 29, 2026",
-      "store_version": "26080201 (1.0.4)"
+      "store_version": "26080302 (1.0.4)"
     }
   ]
 }
