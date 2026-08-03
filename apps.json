@@ -178,11 +178,11 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
       "category": null,
       "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 8, 2026",
+      "store_version": "26070803 (1.0.2)"
     },
     {
       "id": "locato",
@@ -204,8 +204,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 23, 2026",
+      "store_version": "26072301 (1.0.1)"
     },
     {
       "id": "lunaai_chat",
@@ -404,7 +404,7 @@
       "versions": {
         "dev": "1.0.4+26080301",
         "prod": "1.0.4+26080301",
-        "aab": "1.0.4+26080301"
+        "aab": "1.0.4+26080302"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
