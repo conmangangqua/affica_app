@@ -304,11 +304,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/snapisode_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/snapisode_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/snapisode_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/snapisode.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26080401"
       },
       "store": "",
       "category": "Entertainment",
