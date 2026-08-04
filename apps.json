@@ -265,12 +265,14 @@
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/plotwist_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/plotwist_prod.apk",
-        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/plotwist.aab"
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/plotwist.aab",
+        "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/plotwist_prod_noads.apk"
       },
       "versions": {
         "dev": "1.0.0+1",
         "prod": "1.0.0+1",
-        "aab": "1.0.0+26080403"
+        "aab": "1.0.0+26080403",
+        "noads": "1.0.0+26080403"
       },
       "store": "",
       "category": "Entertainment",
@@ -418,7 +420,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Jul 29, 2026",
-      "store_version": "26080302 (1.0.4)"
+      "store_version": "26080401 (1.0.4)"
     }
   ]
 }
