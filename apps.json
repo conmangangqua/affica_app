@@ -61,7 +61,7 @@
       "versions": {
         "dev": "1.0.1+26071701",
         "prod": "1.0.1+26071701",
-        "aab": "1.0.1+26072301"
+        "aab": "1.0.1+26080501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
       "category": "Lifestyle",
@@ -348,8 +348,8 @@
       "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 23, 2026",
+      "store_version": "26072301 (1.0.2)"
     },
     {
       "id": "swift_secure_vpn",
