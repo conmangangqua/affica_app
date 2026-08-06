@@ -82,7 +82,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/chapture.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26080601",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26080401"
       },
@@ -270,11 +270,11 @@
         "prod": "1.0.1+26071701",
         "aab": "1.0.1+26073002"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
+      "store": "",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Jul 30, 2026",
-      "store_version": "26073002 (1.0.1)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "plotwist",
@@ -344,7 +344,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Aug 4, 2026",
+      "store_updated": "Aug 6, 2026",
       "store_version": null
     },
     {
