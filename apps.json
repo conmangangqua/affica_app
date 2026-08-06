@@ -240,10 +240,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/pdfeather_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/pdfeather_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/pdfeather_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "Productivity",
@@ -293,7 +295,7 @@
         "aab": "1.0.0+26080403",
         "noads": "1.0.0+26080403"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": null,
