@@ -70,5 +70,9 @@
   "plotwist": {
     "sha": "49b25d157b742c660f51b74605a16c141b78d22e236b7046a297c6015e187458",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/plotwist_icon.png"
+  },
+  "pdfeather": {
+    "sha": "0923edd971714888bc446c3b50b57f43405e65c9a29c68814c9e4ccf679c717b",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/pdfeather_icon.png"
   }
 }
