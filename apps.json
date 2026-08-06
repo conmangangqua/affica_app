@@ -298,7 +298,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Aug 5, 2026",
       "store_version": null
     },
     {
@@ -339,7 +339,7 @@
       "versions": {
         "dev": "1.0.1+26080601",
         "prod": "1.0.1+26080601",
-        "aab": "1.0.0+26080401"
+        "aab": "1.0.1+26080601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
       "category": "Entertainment",
