@@ -270,11 +270,11 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
+      "store": "",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Jul 30, 2026",
-      "store_version": "26073002 (1.0.1)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "plotwist",
@@ -339,7 +339,7 @@
       "versions": {
         "dev": "1.0.1+26080601",
         "prod": "1.0.1+26080601",
-        "aab": "1.0.1+26080601"
+        "aab": "1.0.1+26081001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
       "category": "Entertainment",
