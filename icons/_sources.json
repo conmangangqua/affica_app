@@ -78,5 +78,9 @@
   "cliffy": {
     "sha": "6b717d06eb1dc5d36b00d3cf9857cce7a8c01f9ae42771dee40423784f862a0c",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/cliffy_icon.png"
+  },
+  "spotlite": {
+    "sha": "d5b1f0a5b52e6b7aa9e4bfd11ceae11a73bf4d0506fc7ad69760a23a51dd886f",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/spotlite_icon.png"
   }
 }
