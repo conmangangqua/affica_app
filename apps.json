@@ -291,7 +291,7 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": null,
