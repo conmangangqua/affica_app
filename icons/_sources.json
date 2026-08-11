@@ -82,5 +82,9 @@
   "spotlite": {
     "sha": "d5b1f0a5b52e6b7aa9e4bfd11ceae11a73bf4d0506fc7ad69760a23a51dd886f",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/spotlite_icon.png"
+  },
+  "sceneo": {
+    "sha": "c5e516a163e2112b3523a3497ab10739b47c6346ecdd429c20e1cc4b34988cf0",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/sceneo_icon.png"
   }
 }
