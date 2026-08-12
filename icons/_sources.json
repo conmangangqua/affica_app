@@ -86,5 +86,9 @@
   "sceneo": {
     "sha": "c5e516a163e2112b3523a3497ab10739b47c6346ecdd429c20e1cc4b34988cf0",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/sceneo_icon.png"
+  },
+  "slatora": {
+    "sha": "c5e516a163e2112b3523a3497ab10739b47c6346ecdd429c20e1cc4b34988cf0",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/slatora_icon.png"
   }
 }

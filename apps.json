@@ -111,11 +111,11 @@
         "aab": "1.0.1+26072302",
         "noads": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 23, 2026",
+      "store_version": "26072302 (1.0.1)"
     },
     {
       "id": "cliffy",
@@ -363,6 +363,25 @@
       "store": "",
       "category": "movie",
       "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
+      "id": "slatora",
+      "name": "Slatora",
+      "icon": "icons/slatora.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/slatora_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
       "store_updated": null,
       "store_version": null
     },
