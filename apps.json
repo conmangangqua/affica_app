@@ -126,7 +126,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/cliffy_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/cliffy_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/cliffy_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/cliffy.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
