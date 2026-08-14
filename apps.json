@@ -270,7 +270,7 @@
       "versions": {
         "dev": "1.0.0+1",
         "prod": "1.0.0+1",
-        "aab": "1.0.0+26081302"
+        "aab": "1.0.0+26081501"
       },
       "store": "",
       "category": "Productivity",
@@ -408,7 +408,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/spotlite.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26081501",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26081501"
       },
