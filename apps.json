@@ -157,11 +157,11 @@
         "prod": "1.0.3+26073101",
         "aab": "1.0.4+26081401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": "Jul 31, 2026",
-      "store_version": "26081401 (1.0.4)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "fan_call",
