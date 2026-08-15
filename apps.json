@@ -23,7 +23,7 @@
       "category": "Photography",
       "category_source": "store",
       "store_updated": "Jul 21, 2026",
-      "store_version": "26072101 (1.0.1)"
+      "store_version": "26081401 (1.0.2)"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -161,7 +161,7 @@
       "category": "Streaming",
       "category_source": "rule",
       "store_updated": "Jul 31, 2026",
-      "store_version": "26073101 (1.0.3)"
+      "store_version": "26081401 (1.0.4)"
     },
     {
       "id": "fan_call",
