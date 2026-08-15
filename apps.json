@@ -157,7 +157,7 @@
         "prod": "1.0.3+26073101",
         "aab": "1.0.4+26081401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
       "category": "Streaming",
       "category_source": "rule",
       "store_updated": null,
