@@ -118,29 +118,6 @@
       "store_version": "26072302 (1.0.1)"
     },
     {
-      "id": "cliffy",
-      "name": "Cliffy",
-      "icon": "icons/cliffy.webp",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/cliffy_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/cliffy_prod.apk",
-        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/cliffy.aab"
-      },
-      "versions": {
-        "dev": "1.0.0+1",
-        "prod": "1.0.0+1",
-        "aab": "1.0.0+26081501"
-      },
-      "store": "",
-      "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
-    },
-    {
       "id": "dramelo",
       "name": "Dramelo",
       "icon": "icons/dramelo.webp",
