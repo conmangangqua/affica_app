@@ -90,5 +90,9 @@
   "slatora": {
     "sha": "c5e516a163e2112b3523a3497ab10739b47c6346ecdd429c20e1cc4b34988cf0",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/slatora_icon.png"
+  },
+  "dramelo": {
+    "sha": "6b717d06eb1dc5d36b00d3cf9857cce7a8c01f9ae42771dee40423784f862a0c",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_icon.png"
   }
 }

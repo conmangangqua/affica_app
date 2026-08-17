@@ -19,11 +19,11 @@
         "aab": "1.0.2+26081401",
         "noads": "1.0.0+26053001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.artova",
+      "store": "",
       "category": "Photography",
       "category_source": "store",
-      "store_updated": "Jul 21, 2026",
-      "store_version": "26081401 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "calorie_fasting_tracker",
@@ -90,7 +90,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 11, 2026",
-      "store_version": null
+      "store_version": "26081101 (1.0.2)"
     },
     {
       "id": "clean_space",
@@ -137,6 +137,25 @@
       "store": "",
       "category": "Entertainment",
       "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
+      "id": "dramelo",
+      "name": "Dramelo",
+      "icon": "icons/dramelo.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26081501"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
       "store_updated": null,
       "store_version": null
     },
@@ -324,7 +343,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 11, 2026",
-      "store_version": null
+      "store_version": "26081701 (1.0.3)"
     },
     {
       "id": "reelure",
