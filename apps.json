@@ -149,11 +149,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramelo_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramelo_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/dramelo.aab"
       },
       "versions": {
         "dev": "1.0.0+26081501",
-        "prod": "1.0.0+26081501"
+        "prod": "1.0.0+26081501",
+        "aab": "1.0.0+26081701"
       },
       "store": "",
       "category": "Streaming",
