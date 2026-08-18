@@ -366,7 +366,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26081501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.slatora",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
