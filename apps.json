@@ -136,8 +136,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.cliffy",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Aug 17, 2026",
       "store_version": null
     },
     {
@@ -317,7 +317,7 @@
       "versions": {
         "dev": "1.0.1+26080601",
         "prod": "1.0.1+26080601",
-        "aab": "1.0.3+26081701",
+        "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
