@@ -134,7 +134,7 @@
         "prod": "1.0.0+26081501",
         "aab": "1.0.0+26081701"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.cliffy",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
