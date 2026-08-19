@@ -339,7 +339,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/reelure.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26081901",
         "prod": "1.0.0+1",
         "aab": "1.0.1+26081901"
       },
@@ -362,9 +362,9 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/slatora.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26081902",
         "prod": "1.0.0+1",
-        "aab": "1.0.0+26081501"
+        "aab": "1.0.1+26081902"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.slatora",
       "category": "Entertainment",
