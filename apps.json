@@ -125,12 +125,14 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/dramelo_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/dramelo.aab"
       },
       "versions": {
         "dev": "1.0.1+26081902",
         "prod": "1.0.1+26081902",
-        "aab": "1.0.1+26081902"
+        "aab": "1.0.1+26081903"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.cliffy",
       "category": "Entertainment",
