@@ -26,6 +26,25 @@
       "store_version": "26081801 (1.0.3)"
     },
     {
+      "id": "battopia",
+      "name": "Battopia",
+      "icon": "icons/battopia.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/battopia_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "wallpaper",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
       "icon": "icons/calorie_fasting_tracker.webp",

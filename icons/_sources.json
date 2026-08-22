@@ -94,5 +94,9 @@
   "dramelo": {
     "sha": "c0d21db83ac5dda97fe4107fad96a7097fc091d0174d1b46007d41807908c9e8",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/dramelo_icon.png"
+  },
+  "battopia": {
+    "sha": "dff7738d52a2d9a477c46464f56b7ebb60f0d05e2507192cb0161fdaa385c351",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/battopia_icon.png"
   }
 }
