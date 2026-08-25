@@ -414,7 +414,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Aug 20, 2026",
+      "store_updated": "Aug 25, 2026",
       "store_version": "1.0.5"
     },
     {
@@ -486,7 +486,7 @@
       "category": "VPN",
       "category_source": "rule",
       "store_updated": "Jul 29, 2026",
-      "store_version": "26072902 (1.0.8)"
+      "store_version": null
     },
     {
       "id": "wave_cleaner",
