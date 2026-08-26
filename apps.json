@@ -15,7 +15,7 @@
       },
       "versions": {
         "dev": "1.0.2+26082601",
-        "prod": "1.0.2+26081401",
+        "prod": "1.0.2+26082601",
         "aab": "1.0.2+26082601",
         "noads": "1.0.0+26053001"
       },
@@ -160,7 +160,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 20, 2026",
-      "store_version": null
+      "store_version": "26081903 (1.0.1)"
     },
     {
       "id": "dramio",
@@ -392,7 +392,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 20, 2026",
-      "store_version": null
+      "store_version": "26081902 (1.0.1)"
     },
     {
       "id": "snapisode",
