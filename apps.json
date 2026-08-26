@@ -527,7 +527,7 @@
         "prod": "1.0.4+26082402",
         "aab": "1.0.4+26082402"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": null,
