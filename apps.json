@@ -83,7 +83,8 @@
       },
       "versions": {
         "dev": "1.0.1+26071701",
-        "prod": "1.0.1+26071701"
+        "prod": "1.0.1+26071701",
+        "aab": "1.0.1+26080501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
       "category": "Lifestyle",
@@ -279,7 +280,7 @@
     {
       "id": "pdfeather",
       "name": "Pdfeather",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/pdfeather_icon.png",
+      "icon": "icons/pdfeather.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -361,6 +362,7 @@
       },
       "versions": {
         "dev": "1.0.1+26081901",
+        "prod": "1.0.1+26081901",
         "aab": "1.0.1+26081901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reelure",
@@ -428,6 +430,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/spotlite.aab"
       },
       "versions": {
+        "dev": "1.0.1+26081701",
         "prod": "1.0.1+26081701",
         "aab": "1.0.1+26081701"
       },
@@ -530,8 +533,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Aug 5, 2026",
+      "store_version": "26080601 (1.0.4)"
     }
   ]
 }
