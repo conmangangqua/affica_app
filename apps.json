@@ -387,8 +387,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "recovery",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
@@ -523,7 +523,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/wave_cleaner_dev_noads.apk"
       },
       "versions": {
-        "dev": "1.0.1+26062301",
+        "dev": "1.0.2+26072301",
         "prod": "1.0.1+26062301",
         "aab": "1.0.2+26072301",
         "noads": "1.0.0+26053101"
