@@ -102,5 +102,9 @@
   "retriva": {
     "sha": "8e678df8e33a14fcf1771f01b6c869f7baa8285e9492ec64dbccfb0165ff2582",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/retriva_icon.png"
+  },
+  "rizzora": {
+    "sha": "097857450247638f719ea15ea5fd8e510834498634e8ec57a7a3a072f13588b4",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/rizzora_icon.png"
   }
 }

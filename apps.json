@@ -393,6 +393,25 @@
       "store_version": null
     },
     {
+      "id": "rizzora",
+      "name": "Rizzora",
+      "icon": "icons/rizzora.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/rizzora_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "slatora",
       "name": "Slatora",
       "icon": "icons/slatora.webp",
