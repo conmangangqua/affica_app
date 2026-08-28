@@ -372,6 +372,25 @@
       "store_version": "26081901 (1.0.1)"
     },
     {
+      "id": "retriva",
+      "name": "Retriva",
+      "icon": "icons/retriva.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/retriva_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "slatora",
       "name": "Slatora",
       "icon": "icons/slatora.webp",

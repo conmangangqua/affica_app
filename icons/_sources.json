@@ -98,5 +98,9 @@
   "battopia": {
     "sha": "dff7738d52a2d9a477c46464f56b7ebb60f0d05e2507192cb0161fdaa385c351",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/battopia_icon.png"
+  },
+  "retriva": {
+    "sha": "8e678df8e33a14fcf1771f01b6c869f7baa8285e9492ec64dbccfb0165ff2582",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/retriva_icon.png"
   }
 }
