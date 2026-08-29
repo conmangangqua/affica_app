@@ -100,10 +100,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/chapterra_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "Entertainment",
@@ -299,7 +301,7 @@
     {
       "id": "pdfeather",
       "name": "Pdfeather",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/pdfeather_icon.png",
+      "icon": "icons/pdfeather.webp",
       "platform": "Android",
       "description": "",
       "features": [],
