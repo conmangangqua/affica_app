@@ -114,5 +114,9 @@
   "nightella": {
     "sha": "80e5c872590672a1448f399139ed96f11160edc03189ea66e487881759a9b82b",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/nightella_icon.png"
+  },
+  "curtaino": {
+    "sha": "95e3baf47641fb20482d945b6a638dbe6730b7472582cf14eea390ad2da141c3",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/curtaino_icon.png"
   }
 }
