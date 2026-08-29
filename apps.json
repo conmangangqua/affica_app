@@ -177,8 +177,8 @@
         "prod": "1.0.0+26082201"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Entertainment",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
