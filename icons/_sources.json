@@ -110,5 +110,9 @@
   "chapterra": {
     "sha": "8b4a60d77c0988b8d808334bfe35625a87efad8f712464bd3592cdcc08af50b0",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_icon.png"
+  },
+  "nightella": {
+    "sha": "80e5c872590672a1448f399139ed96f11160edc03189ea66e487881759a9b82b",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/nightella_icon.png"
   }
 }

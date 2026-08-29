@@ -299,6 +299,25 @@
       "store_version": "26062601 (1.0.3)"
     },
     {
+      "id": "nightella",
+      "name": "Nightella",
+      "icon": "icons/nightella.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/nightella_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26082201"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "pdfeather",
       "name": "Pdfeather",
       "icon": "icons/pdfeather.webp",
