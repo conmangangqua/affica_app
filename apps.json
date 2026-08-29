@@ -93,6 +93,25 @@
       "store_version": "26072301 (1.0.1)"
     },
     {
+      "id": "chapterra",
+      "name": "Chapterra",
+      "icon": "icons/chapterra.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "chapture",
       "name": "Chapture",
       "icon": "icons/chapture.webp",
@@ -280,7 +299,7 @@
     {
       "id": "pdfeather",
       "name": "Pdfeather",
-      "icon": "icons/pdfeather.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/pdfeather_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
