@@ -122,5 +122,9 @@
   "crimora": {
     "sha": "cc91b14824e5f3be9d41527e5356e689546e0c1472fd1635e8691b6329d7eb58",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/crimora_icon.png"
+  },
+  "oceara": {
+    "sha": "580156300e46e0ef70c3b606ee2d2ca4250a17e9e45b101a046ef14eac59bfa7",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/oceara_icon.png"
   }
 }
