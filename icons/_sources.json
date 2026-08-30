@@ -118,5 +118,9 @@
   "curtaino": {
     "sha": "95e3baf47641fb20482d945b6a638dbe6730b7472582cf14eea390ad2da141c3",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/curtaino_icon.png"
+  },
+  "crimora": {
+    "sha": "d10eac909dbdccacdb31a1b7b49ddd3235835411a3be2114bc462e6b05b1dc60",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/crimora_icon.png"
   }
 }

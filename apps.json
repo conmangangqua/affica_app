@@ -162,6 +162,25 @@
       "store_version": "26072302 (1.0.1)"
     },
     {
+      "id": "crimora",
+      "name": "Crimora",
+      "icon": "icons/crimora.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/crimora_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26082201"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "curtaino",
       "name": "Curtaino",
       "icon": "icons/curtaino.webp",
