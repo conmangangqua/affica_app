@@ -526,10 +526,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/rosevia_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/rosevia_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/rosevia_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201"
+        "dev": "1.0.0+26082201",
+        "prod": "1.0.0+26082201"
       },
       "store": "",
       "category": "Entertainment",
