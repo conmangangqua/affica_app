@@ -194,7 +194,8 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201"
+        "dev": "1.0.0+26082201",
+        "prod": "1.0.0+26082201"
       },
       "store": "",
       "category": "Entertainment",
@@ -564,7 +565,7 @@
     {
       "id": "snapisode",
       "name": "Snapisode",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/snapisode_icon.png",
+      "icon": "icons/snapisode.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -583,6 +584,25 @@
       "category_source": "store",
       "store_updated": "Aug 25, 2026",
       "store_version": "1.0.5"
+    },
+    {
+      "id": "spectrave",
+      "name": "Spectrave",
+      "icon": "icons/spectrave.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/spectrave_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "spotlite",

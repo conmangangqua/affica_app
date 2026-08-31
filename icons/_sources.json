@@ -134,5 +134,9 @@
   "vesperia": {
     "sha": "e87b1694c3f9e5007c64f37928edf0e4f135959fc018c5edd98675ecc71d5671",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/vesperia_icon.png"
+  },
+  "spectrave": {
+    "sha": "7185ac57fa78b8407324297805d9536efd93d5b50c6799124c326ec2b9d3be24",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/spectrave_icon.png"
   }
 }
