@@ -194,8 +194,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
-        "prod": "1.0.0+26082201"
+        "dev": "1.0.0+26082201"
       },
       "store": "",
       "category": "Entertainment",
@@ -565,7 +564,7 @@
     {
       "id": "snapisode",
       "name": "Snapisode",
-      "icon": "icons/snapisode.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/snapisode_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
