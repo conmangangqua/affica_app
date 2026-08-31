@@ -130,5 +130,9 @@
   "rosevia": {
     "sha": "39ab8ff3e67575a7f3a71946afd93ed394e3d7b79c87132215a7b767d64dc91a",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/rosevia_icon.png"
+  },
+  "vesperia": {
+    "sha": "fea6afa91cb9d02b3bcc386300ea77b28c4a823c93dec572ba763a40ec2cefb6",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/vesperia_icon.png"
   }
 }

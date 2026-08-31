@@ -657,6 +657,25 @@
       "store_version": "26072902 (1.0.8)"
     },
     {
+      "id": "vesperia",
+      "name": "Vesperia",
+      "icon": "icons/vesperia.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/vesperia_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26082201"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "wave_cleaner",
       "name": "Wave: Speaker Cleaner & Eject",
       "icon": "icons/wave_cleaner.webp",
