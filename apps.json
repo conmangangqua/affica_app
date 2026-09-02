@@ -20,8 +20,8 @@
         "noads": "1.0.0+26053001"
       },
       "store": "",
-      "category": "Photography",
-      "category_source": "store",
+      "category": "photo-ai",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
