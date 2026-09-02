@@ -134,7 +134,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 11, 2026",
-      "store_version": "26081101 (1.0.2)"
+      "store_version": "1.0.2"
     },
     {
       "id": "clean_space",
@@ -422,11 +422,11 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
+      "store": "",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Jul 30, 2026",
-      "store_version": "26073002 (1.0.1)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "plotwist",
