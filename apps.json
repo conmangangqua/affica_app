@@ -442,7 +442,7 @@
         "noads": "https://github.com/conmangangqua/affica_app/releases/download/noads/plotwist_prod_noads.apk"
       },
       "versions": {
-        "dev": "1.0.1+26080601",
+        "dev": "1.0.4+26090301",
         "prod": "1.0.1+26080601",
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
