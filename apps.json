@@ -185,7 +185,7 @@
     {
       "id": "curtaino",
       "name": "Curtaino",
-      "icon": "icons/curtaino.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -262,8 +262,7 @@
       },
       "versions": {
         "dev": "1.0.1+26072201",
-        "prod": "1.0.1+26072201",
-        "aab": "1.0.1+26072201"
+        "prod": "1.0.1+26072201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
       "category": null,
@@ -352,8 +351,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/nightella_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
-        "prod": "1.0.0+26082201"
+        "dev": "1.0.0+26082201"
       },
       "store": "",
       "category": "Entertainment",
@@ -443,7 +441,7 @@
       },
       "versions": {
         "dev": "1.0.4+26090301",
-        "prod": "1.0.1+26080601",
+        "prod": "1.0.4+26090301",
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
@@ -701,7 +699,7 @@
     {
       "id": "wave_cleaner",
       "name": "Wave: Speaker Cleaner & Eject",
-      "icon": "icons/wave_cleaner.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/wave_cleaner_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
