@@ -173,7 +173,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/crimora_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
+        "dev": "1.0.0+26090401",
         "prod": "1.0.0+26082201"
       },
       "store": "",
@@ -374,7 +374,6 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/oceara_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
         "prod": "1.0.0+26090401"
       },
       "store": "",
@@ -598,8 +597,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/spectrave_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
-        "prod": "1.0.0+26090401"
+        "dev": "1.0.0+26090401"
       },
       "store": "",
       "category": "Entertainment",
