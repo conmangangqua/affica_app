@@ -224,7 +224,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 20, 2026",
-      "store_version": "26081903 (1.0.1)"
+      "store_version": "1.0.2"
     },
     {
       "id": "dramio",
@@ -452,7 +452,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 16, 2026",
-      "store_version": "26081701 (1.0.3)"
+      "store_version": "1.0.4"
     },
     {
       "id": "reelure",
@@ -561,7 +561,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 20, 2026",
-      "store_version": "26081902 (1.0.1)"
+      "store_version": "1.0.2"
     },
     {
       "id": "snapisode",
@@ -690,7 +690,7 @@
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/vesperia_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
+        "dev": "1.0.0+26090401",
         "prod": "1.0.0+26082201"
       },
       "store": "",
