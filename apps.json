@@ -105,7 +105,7 @@
       },
       "versions": {
         "dev": "1.0.0+26090401",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+26090401"
       },
       "store": "",
       "category": "Entertainment",
@@ -594,11 +594,10 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/spectrave_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/spectrave_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26090401",
         "prod": "1.0.0+1"
       },
       "store": "",
