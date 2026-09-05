@@ -100,6 +100,7 @@
       "description": "",
       "features": [],
       "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/chapterra_prod.apk"
       },
       "versions": {
