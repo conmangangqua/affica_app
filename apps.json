@@ -101,11 +101,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chapterra_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/chapterra_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/chapterra_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/chapterra.aab"
       },
       "versions": {
         "dev": "1.0.0+26090401",
-        "prod": "1.0.0+26090401"
+        "prod": "1.0.0+26090401",
+        "aab": "1.0.0+26090401"
       },
       "store": "",
       "category": "Entertainment",
