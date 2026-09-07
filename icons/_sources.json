@@ -138,5 +138,9 @@
   "spectrave": {
     "sha": "7185ac57fa78b8407324297805d9536efd93d5b50c6799124c326ec2b9d3be24",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/spectrave_icon.png"
+  },
+  "calyssa": {
+    "sha": "04532c1b65d419efc83c9257d59c10e844c41eed3b9a57c667b40904bfe9370d",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_icon.png"
   }
 }
