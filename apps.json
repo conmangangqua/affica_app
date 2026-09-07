@@ -218,7 +218,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/curtaino.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
+        "dev": "1.0.0+26090801",
         "prod": "1.0.0+26090401",
         "aab": "1.0.0+26090701"
       },
@@ -314,11 +314,11 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
       "category": null,
       "category_source": null,
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 8, 2026",
+      "store_version": "26070803 (1.0.2)"
     },
     {
       "id": "locato",
