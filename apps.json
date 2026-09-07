@@ -214,11 +214,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/curtaino_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/curtaino.aab"
       },
       "versions": {
         "dev": "1.0.0+26090401",
-        "prod": "1.0.0+26090401"
+        "prod": "1.0.0+26090401",
+        "aab": "1.0.0+26090701"
       },
       "store": "",
       "category": "Entertainment",
@@ -490,11 +492,11 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 30, 2026",
+      "store_version": "26073002 (1.0.1)"
     },
     {
       "id": "plotwist",
@@ -672,7 +674,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Aug 25, 2026",
-      "store_version": "1.0.5"
+      "store_version": "1.0.8"
     },
     {
       "id": "spotlite",
