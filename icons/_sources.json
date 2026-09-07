@@ -146,5 +146,9 @@
   "onaira": {
     "sha": "7798b479a26a09f5f5fd0e585bef702c6b7e6845a75cbb401c2a85f624d1a60c",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/onaira_icon.png"
+  },
+  "marquisse": {
+    "sha": "03a53e08dc38c2c42d0618e1adc12ac7d8786d81b0984e5454b15c925d98f0fc",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/marquisse_icon.png"
   }
 }
