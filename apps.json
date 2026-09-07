@@ -77,10 +77,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/calyssa_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "Entertainment",
@@ -363,6 +365,27 @@
       "store_version": "26062601 (1.0.3)"
     },
     {
+      "id": "marquisse",
+      "name": "Marquisse",
+      "icon": "icons/marquisse.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/marquisse_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/marquisse_prod.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26090401",
+        "prod": "1.0.0+26090401"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "nightella",
       "name": "Nightella",
       "icon": "icons/nightella.webp",
@@ -397,6 +420,25 @@
       "versions": {
         "dev": "1.0.0+26082201",
         "prod": "1.0.0+26082201"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
+      "id": "onaira",
+      "name": "Onaira",
+      "icon": "icons/onaira.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/onaira_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
       },
       "store": "",
       "category": "Entertainment",
@@ -562,6 +604,25 @@
       "store_version": null
     },
     {
+      "id": "scenova",
+      "name": "Scenova",
+      "icon": "icons/scenova.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/scenova_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "slatora",
       "name": "Slatora",
       "icon": "icons/slatora.webp",
@@ -606,27 +667,6 @@
       "category_source": "store",
       "store_updated": "Aug 25, 2026",
       "store_version": "1.0.5"
-    },
-    {
-      "id": "spectrave",
-      "name": "Spectrave",
-      "icon": "icons/spectrave.webp",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/spectrave_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/spectrave_prod.apk"
-      },
-      "versions": {
-        "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
-      },
-      "store": "",
-      "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
     },
     {
       "id": "spotlite",

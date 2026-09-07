@@ -142,5 +142,17 @@
   "calyssa": {
     "sha": "04532c1b65d419efc83c9257d59c10e844c41eed3b9a57c667b40904bfe9370d",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_icon.png"
+  },
+  "onaira": {
+    "sha": "7798b479a26a09f5f5fd0e585bef702c6b7e6845a75cbb401c2a85f624d1a60c",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/onaira_icon.png"
+  },
+  "marquisse": {
+    "sha": "03a53e08dc38c2c42d0618e1adc12ac7d8786d81b0984e5454b15c925d98f0fc",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/marquisse_icon.png"
+  },
+  "scenova": {
+    "sha": "85fbd3a87dfdc27de9d0a2d9f800f51a83a8f21a71a9b53bae05074792153991",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/scenova_icon.png"
   }
 }
