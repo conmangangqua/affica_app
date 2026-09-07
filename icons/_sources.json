@@ -142,5 +142,9 @@
   "calyssa": {
     "sha": "04532c1b65d419efc83c9257d59c10e844c41eed3b9a57c667b40904bfe9370d",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_icon.png"
+  },
+  "onaira": {
+    "sha": "7798b479a26a09f5f5fd0e585bef702c6b7e6845a75cbb401c2a85f624d1a60c",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/onaira_icon.png"
   }
 }
