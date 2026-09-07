@@ -747,7 +747,7 @@
       "category": "VPN",
       "category_source": "rule",
       "store_updated": "Jul 29, 2026",
-      "store_version": "26072902 (1.0.8)"
+      "store_version": null
     },
     {
       "id": "vesperia",
@@ -758,11 +758,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/vesperia_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/vesperia_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/vesperia_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/vesperia.aab"
       },
       "versions": {
         "dev": "1.0.0+26082201",
-        "prod": "1.0.0+26082201"
+        "prod": "1.0.0+26082201",
+        "aab": "1.0.0+26090801"
       },
       "store": "",
       "category": "Entertainment",
