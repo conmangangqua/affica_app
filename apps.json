@@ -602,6 +602,25 @@
       "store_version": null
     },
     {
+      "id": "scenova",
+      "name": "Scenova",
+      "icon": "icons/scenova.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/scenova_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "slatora",
       "name": "Slatora",
       "icon": "icons/slatora.webp",
