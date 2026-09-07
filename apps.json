@@ -513,11 +513,11 @@
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 3, 2026",
-      "store_version": "1.0.4"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "reelure",
