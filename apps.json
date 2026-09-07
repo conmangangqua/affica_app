@@ -421,11 +421,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/oceara_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/oceara_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/oceara_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/oceara.aab"
       },
       "versions": {
         "dev": "1.0.0+26082201",
-        "prod": "1.0.0+26082201"
+        "prod": "1.0.0+26082201",
+        "aab": "1.0.0+26090801"
       },
       "store": "",
       "category": "Entertainment",
