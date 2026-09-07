@@ -70,6 +70,25 @@
       "store_version": null
     },
     {
+      "id": "calyssa",
+      "name": "Calyssa",
+      "icon": "icons/calyssa.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/calyssa_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Entertainment",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "celebring",
       "name": "Celebring",
       "icon": "icons/celebring.webp",
@@ -135,7 +154,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chapture",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 2, 2026",
+      "store_updated": "Sep 3, 2026",
       "store_version": "1.0.3"
     },
     {
@@ -453,7 +472,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Aug 16, 2026",
+      "store_updated": "Sep 3, 2026",
       "store_version": "1.0.4"
     },
     {
