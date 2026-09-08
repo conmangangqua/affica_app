@@ -406,6 +406,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/nightella.aab"
       },
       "versions": {
+        "dev": "1.0.0+26090702",
         "prod": "1.0.0+26090702",
         "aab": "1.0.0+26090701"
       },
@@ -633,7 +634,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/scenova.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26090802",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26090801"
       },
