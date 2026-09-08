@@ -379,7 +379,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/marquisse_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/marquisse_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/marquisse_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/marquisse.aab"
       },
       "versions": {
         "dev": "1.0.0+26090802",
@@ -430,7 +431,7 @@
       "versions": {
         "dev": "1.0.0+26082201",
         "prod": "1.0.0+26082201",
-        "aab": "1.0.0+26090801"
+        "aab": "1.0.0+26090802"
       },
       "store": "",
       "category": "Entertainment",
