@@ -199,7 +199,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/crimora.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090401",
+        "dev": "1.0.0+26090802",
         "prod": "1.0.0+26090401",
         "aab": "1.0.0+26090801"
       },
@@ -429,7 +429,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/oceara.aab"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
+        "dev": "1.0.0+26090802",
         "prod": "1.0.0+26082201",
         "aab": "1.0.0+26090802"
       },
@@ -611,7 +611,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/rosevia.aab"
       },
       "versions": {
-        "dev": "1.0.0+26082201",
+        "dev": "1.0.0+26090802",
         "prod": "1.0.0+26082201",
         "aab": "1.0.0+26090801"
       },
