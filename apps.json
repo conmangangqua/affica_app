@@ -194,6 +194,7 @@
       "description": "",
       "features": [],
       "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/crimora_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/crimora_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/crimora.aab"
       },
@@ -605,12 +606,13 @@
       "description": "",
       "features": [],
       "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/rosevia_dev.apk",
         "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/rosevia_prod.apk",
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/rosevia.aab"
       },
       "versions": {
         "dev": "1.0.0+26090802",
-        "prod": "1.0.0+26082201",
+        "prod": "1.0.0+26090802",
         "aab": "1.0.0+26090801"
       },
       "store": "",
