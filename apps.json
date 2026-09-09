@@ -228,8 +228,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.curtaino",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Sep 7, 2026",
       "store_version": "1.0.0"
     },
     {
@@ -797,7 +797,7 @@
       "versions": {
         "dev": "1.0.0+26090901",
         "prod": "1.0.0+26090901",
-        "aab": "1.0.0+26090802"
+        "aab": "1.0.0+26090902"
       },
       "store": "",
       "category": "Entertainment",
