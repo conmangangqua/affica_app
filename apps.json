@@ -638,9 +638,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rosevia",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
+      "category_source": "store",
+      "store_updated": "Sep 9, 2026",
+      "store_version": "26090901 (1.0.0)"
     },
     {
       "id": "scenova",
@@ -724,14 +724,13 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/spotlite.aab"
       },
       "versions": {
-        "dev": "1.0.1+26090301",
         "prod": "1.0.1+26090301",
         "aab": "1.0.1+26090301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spotlite",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 3, 2026",
+      "store_updated": "Sep 9, 2026",
       "store_version": "1.0.1"
     },
     {
