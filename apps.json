@@ -72,7 +72,7 @@
     {
       "id": "calyssa",
       "name": "Calyssa",
-      "icon": "icons/calyssa.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calyssa_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -212,7 +212,7 @@
     {
       "id": "curtaino",
       "name": "Curtaino",
-      "icon": "icons/curtaino.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
