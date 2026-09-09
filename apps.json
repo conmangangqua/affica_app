@@ -199,7 +199,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/crimora.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090802",
+        "dev": "1.0.0+26090901",
         "prod": "1.0.0+26090802",
         "aab": "1.0.0+26090801"
       },
@@ -410,11 +410,11 @@
         "prod": "1.0.0+26090702",
         "aab": "1.0.0+26090701"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.nightella",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
-      "store_version": null
+      "store_version": "1.0.0"
     },
     {
       "id": "oceara",
