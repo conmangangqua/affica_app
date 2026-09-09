@@ -435,8 +435,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Sep 9, 2026",
       "store_version": "26090802 (1.0.0)"
     },
     {
