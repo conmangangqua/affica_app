@@ -42,11 +42,11 @@
         "prod": "1.0.0+26090501",
         "aab": "1.0.0+26090501"
       },
-      "store": "",
-      "category": "wallpaper",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.battopia",
+      "category": "Personalization",
+      "category_source": "store",
+      "store_updated": "Sep 4, 2026",
+      "store_version": "26090501 (1.0.0)"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -433,11 +433,11 @@
         "prod": "1.0.0+26090802",
         "aab": "1.0.0+26090802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
-      "store_version": null
+      "store_version": "26090802 (1.0.0)"
     },
     {
       "id": "onaira",
@@ -634,7 +634,7 @@
       "versions": {
         "dev": "1.0.0+26090802",
         "prod": "1.0.0+26090802",
-        "aab": "1.0.0+26090801"
+        "aab": "1.0.0+26090901"
       },
       "store": "",
       "category": "Entertainment",
