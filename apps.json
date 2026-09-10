@@ -20,7 +20,7 @@
         "noads": "1.0.0+26053001"
       },
       "store": "",
-      "category": "photo-ai",
+      "category": "Photography",
       "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
@@ -593,7 +593,7 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "recovery",
+      "category": "Recovery",
       "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
@@ -614,7 +614,7 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "dating",
+      "category": "Dating",
       "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
