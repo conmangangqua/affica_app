@@ -129,7 +129,6 @@
       },
       "versions": {
         "dev": "1.0.1+26091001",
-        "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chapterra",
@@ -406,7 +405,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/nightella.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090702",
+        "dev": "1.0.1+26091001",
         "prod": "1.0.0+26090702",
         "aab": "1.0.0+26090701"
       },
