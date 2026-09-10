@@ -28,7 +28,7 @@
     {
       "id": "battopia",
       "name": "Battopia",
-      "icon": "icons/battopia.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/battopia_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -51,7 +51,7 @@
     {
       "id": "calorie_fasting_tracker",
       "name": "Calorie Fasting Tracker",
-      "icon": "icons/calorie_fasting_tracker.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/calorie_fasting_tracker_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -176,7 +176,6 @@
       },
       "versions": {
         "dev": "1.0.1+26072302",
-        "prod": "1.0.1+26072302",
         "aab": "1.0.1+26072302",
         "noads": "1.0.0+1"
       },
@@ -429,7 +428,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/oceara.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090802",
+        "dev": "1.0.1+26091001",
         "prod": "1.0.0+26090802",
         "aab": "1.0.0+26090802"
       },
@@ -544,7 +543,6 @@
       },
       "versions": {
         "dev": "1.0.4+26090401",
-        "prod": "1.0.4+26090401",
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
@@ -701,7 +699,6 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/snapisode.aab"
       },
       "versions": {
-        "dev": "1.0.8+26090701",
         "prod": "1.0.8+26090701",
         "aab": "1.0.5+26082405"
       },
@@ -750,8 +747,7 @@
       "versions": {
         "dev": "1.0.1+26071201",
         "prod": "1.0.1+26071201",
-        "aab": "1.0.3+26072801",
-        "noads": "1.0.0+1"
+        "aab": "1.0.3+26072801"
       },
       "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
       "category": "Personalization",
