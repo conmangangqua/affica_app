@@ -46,7 +46,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Sep 4, 2026",
-      "store_version": "26090501 (1.0.0)"
+      "store_version": "1.0.1"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -136,7 +136,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 5, 2026",
-      "store_version": "1.0.0"
+      "store_version": "1.0.1"
     },
     {
       "id": "chapture",
@@ -567,7 +567,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/reelure.aab"
       },
       "versions": {
-        "dev": "1.0.2+26090301",
+        "dev": "1.0.2+26091102",
         "prod": "1.0.2+26090301",
         "aab": "1.0.1+26090201"
       },
