@@ -384,7 +384,7 @@
       },
       "versions": {
         "dev": "1.0.0+26090901",
-        "prod": "1.0.0+26090802",
+        "prod": "1.0.0+26090901",
         "aab": "1.0.0+26090901"
       },
       "store": "",
@@ -568,7 +568,7 @@
       },
       "versions": {
         "dev": "1.0.2+26091102",
-        "prod": "1.0.2+26090301",
+        "prod": "1.0.2+26091102",
         "aab": "1.0.1+26090201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reelure",
