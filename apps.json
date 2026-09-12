@@ -212,7 +212,7 @@
     {
       "id": "curtaino",
       "name": "Curtaino",
-      "icon": "icons/curtaino.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -725,7 +725,7 @@
       },
       "versions": {
         "dev": "1.0.1+26090901",
-        "prod": "1.0.1+26090301",
+        "prod": "1.0.1+26090901",
         "aab": "1.0.1+26090301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spotlite",
