@@ -84,7 +84,7 @@
       "versions": {
         "dev": "1.0.0+26090802",
         "prod": "1.0.0+26090802",
-        "aab": "1.0.0+26090802"
+        "aab": "1.0.1+26091201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
       "category": "Entertainment",
@@ -136,7 +136,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 10, 2026",
-      "store_version": null
+      "store_version": "1.0.1"
     },
     {
       "id": "chapture",
@@ -207,7 +207,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 9, 2026",
-      "store_version": null
+      "store_version": "26090901 (1.0.0)"
     },
     {
       "id": "curtaino",
