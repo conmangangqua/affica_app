@@ -212,7 +212,7 @@
     {
       "id": "curtaino",
       "name": "Curtaino",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/curtaino_icon.png",
+      "icon": "icons/curtaino.webp",
       "platform": "Android",
       "description": "",
       "features": [],
