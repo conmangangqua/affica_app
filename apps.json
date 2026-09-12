@@ -207,7 +207,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 9, 2026",
-      "store_version": "26090901 (1.0.0)"
+      "store_version": "1.0.1"
     },
     {
       "id": "curtaino",
@@ -452,7 +452,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/onaira.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090901",
+        "dev": "1.0.0+26090902",
         "prod": "1.0.0+26090901",
         "aab": "1.0.0+26090902"
       },
