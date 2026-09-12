@@ -475,9 +475,9 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/panelo.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.0+26091302",
         "prod": "1.0.0+1",
-        "aab": "1.0.0+26091301"
+        "aab": "1.0.0+26091302"
       },
       "store": "",
       "category": "Entertainment",
