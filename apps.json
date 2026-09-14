@@ -479,7 +479,7 @@
         "prod": "1.0.0+26091302",
         "aab": "1.0.0+26091302"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "gitlab",
       "store_updated": null,
