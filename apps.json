@@ -42,7 +42,7 @@
         "prod": "1.0.1+26091101",
         "aab": "1.0.0+26090501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.battopia",
       "category": "Personalization",
       "category_source": "store",
       "store_updated": null,
@@ -433,7 +433,7 @@
         "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": null,
@@ -479,7 +479,7 @@
         "prod": "1.0.0+26091302",
         "aab": "1.0.0+26091302"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": null,
