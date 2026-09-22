@@ -453,7 +453,7 @@
       },
       "versions": {
         "dev": "1.0.1+26091301",
-        "prod": "1.0.0+26090902",
+        "prod": "1.0.1+26091301",
         "aab": "1.0.1+26091301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.onaira",
@@ -661,9 +661,9 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/scenova.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090901",
+        "dev": "1.0.1+26091301",
         "prod": "1.0.0+26090901",
-        "aab": "1.0.1+26091301"
+        "aab": "1.0.2+26092301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
       "category": "movie",
