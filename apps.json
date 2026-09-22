@@ -253,7 +253,7 @@
       "category": "movie",
       "category_source": "store",
       "store_updated": "Sep 10, 2026",
-      "store_version": "1.0.2"
+      "store_version": "1.0.3"
     },
     {
       "id": "dramio",
@@ -414,7 +414,7 @@
       "category": "movie",
       "category_source": "store",
       "store_updated": "Sep 10, 2026",
-      "store_version": "1.0.1"
+      "store_version": "1.0.2"
     },
     {
       "id": "oceara",
@@ -662,7 +662,7 @@
       },
       "versions": {
         "dev": "1.0.1+26091301",
-        "prod": "1.0.0+26090901",
+        "prod": "1.0.1+26091301",
         "aab": "1.0.2+26092301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
