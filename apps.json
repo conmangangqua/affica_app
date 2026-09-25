@@ -20,8 +20,8 @@
         "noads": "1.0.0+26053001"
       },
       "store": "",
-      "category": "photo-ai",
-      "category_source": "store",
+      "category": "Photography",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
@@ -43,7 +43,7 @@
         "aab": "1.0.0+26090501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.battopia",
-      "category": "wallpaper",
+      "category": "Personalization",
       "category_source": "store",
       "store_updated": "Sep 10, 2026",
       "store_version": "1.0.1"
@@ -64,8 +64,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "calorie",
-      "category_source": "store",
+      "category": "Health & Fitness",
+      "category_source": "desc",
       "store_updated": null,
       "store_version": null
     },
@@ -86,11 +86,11 @@
         "prod": "1.0.0+26090802",
         "aab": "1.0.2+26092401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
-      "category": "movie",
+      "store": "",
+      "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 24, 2026",
-      "store_version": "26092401 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "celebring",
@@ -110,7 +110,7 @@
         "aab": "1.0.1+26080501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
-      "category": "prank-call",
+      "category": "Lifestyle",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
       "store_version": "26072301 (1.0.1)"
@@ -133,7 +133,7 @@
         "aab": "1.0.0+26090401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chapterra",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.2"
@@ -156,7 +156,7 @@
         "aab": "1.0.2+26081101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chapture",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.5"
@@ -181,8 +181,8 @@
         "noads": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
-      "category": "cleaner",
-      "category_source": "store",
+      "category": "Cleaner & Booster",
+      "category_source": "rule",
       "store_updated": "Jul 23, 2026",
       "store_version": "26072302 (1.0.1)"
     },
@@ -204,7 +204,7 @@
         "aab": "1.0.0+26090901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.crimora",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.2"
@@ -227,7 +227,7 @@
         "aab": "1.0.0+26090701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.curtaino",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.1"
@@ -250,7 +250,7 @@
         "aab": "1.0.1+26081903"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.cliffy",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.3"
@@ -273,8 +273,8 @@
         "aab": "1.0.4+26081401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
-      "category": "movie",
-      "category_source": "store",
+      "category": "Streaming",
+      "category_source": "rule",
       "store_updated": "Sep 3, 2026",
       "store_version": "1.0.5"
     },
@@ -342,7 +342,7 @@
         "aab": "1.0.1+26072301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
-      "category": "gps",
+      "category": "Maps & Navigation",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
       "store_version": "26072301 (1.0.1)"
@@ -365,8 +365,8 @@
         "aab": "1.0.3+26090301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.lunaai.chat",
-      "category": "ai-chat",
-      "category_source": "store",
+      "category": "AI Chat",
+      "category_source": "rule",
       "store_updated": "Jun 29, 2026",
       "store_version": "26062601 (1.0.3)"
     },
@@ -388,7 +388,7 @@
         "aab": "1.0.2+26092401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.marquisse",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
       "store_version": null
@@ -411,7 +411,7 @@
         "aab": "1.0.0+26090701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.nightella",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.2"
@@ -434,7 +434,7 @@
         "aab": "1.0.0+26090802"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 23, 2026",
       "store_version": "1.0.1"
@@ -457,7 +457,7 @@
         "aab": "1.0.2+26092301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.onaira",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": null
@@ -480,7 +480,7 @@
         "aab": "1.0.0+26091302"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.1"
@@ -503,7 +503,7 @@
         "aab": "1.0.1+26081903"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.pdfeather",
-      "category": "scan",
+      "category": "Productivity",
       "category_source": "store",
       "store_updated": "Aug 19, 2026",
       "store_version": "26081903 (1.0.1)"
@@ -526,8 +526,8 @@
         "aab": "1.0.1+26073002"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
-      "category": "caller",
-      "category_source": "store",
+      "category": "Caller ID",
+      "category_source": "rule",
       "store_updated": "Jul 30, 2026",
       "store_version": "26073002 (1.0.1)"
     },
@@ -551,7 +551,7 @@
         "noads": "1.0.0+26080403"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 13, 2026",
       "store_version": "1.0.4"
@@ -574,7 +574,7 @@
         "aab": "1.0.2+26091701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reelure",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 19, 2026",
       "store_version": "1.0.4"
@@ -597,7 +597,7 @@
         "aab": "1.0.0+26091201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.retriva",
-      "category": "recovery",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.1"
@@ -620,7 +620,7 @@
         "aab": "1.0.0+26091301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rizzora",
-      "category": "dating",
+      "category": "Lifestyle",
       "category_source": "store",
       "store_updated": "Sep 14, 2026",
       "store_version": "26091301 (1.0.0)"
@@ -643,7 +643,7 @@
         "aab": "1.0.0+26090901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rosevia",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.2"
@@ -666,7 +666,7 @@
         "aab": "1.0.2+26092301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": null
@@ -689,7 +689,7 @@
         "aab": "1.0.1+26081902"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.slatora",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "1.0.3"
@@ -712,7 +712,7 @@
         "aab": "1.0.5+26082405"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 7, 2026",
       "store_version": "1.0.8"
@@ -735,7 +735,7 @@
         "aab": "1.0.1+26091201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.spotlite",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 9, 2026",
       "store_version": "1.0.1"
@@ -760,7 +760,7 @@
         "noads": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
-      "category": "sticker",
+      "category": "Personalization",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
       "store_version": "26072301 (1.0.2)"
@@ -783,8 +783,8 @@
         "aab": "1.0.8+26080501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection",
-      "category": "vpn",
-      "category_source": "store",
+      "category": "VPN",
+      "category_source": "rule",
       "store_updated": "Jul 29, 2026",
       "store_version": "26072902 (1.0.8)"
     },
@@ -806,7 +806,7 @@
         "aab": "1.0.2+26092301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.vesperia",
-      "category": "movie",
+      "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": "26092301 (1.0.2)"
@@ -831,8 +831,8 @@
         "noads": "1.0.0+26053101"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wavecleaner",
-      "category": "speaker-cleaner",
-      "category_source": "store",
+      "category": "Cleaner & Booster",
+      "category_source": "rule",
       "store_updated": "Jul 23, 2026",
       "store_version": "26072301 (1.0.2)"
     },
@@ -854,8 +854,8 @@
         "aab": "1.0.4+26090301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
-      "category": "ai-chat",
-      "category_source": "store",
+      "category": "AI Chat",
+      "category_source": "rule",
       "store_updated": "Sep 3, 2026",
       "store_version": "1.0.4"
     }
