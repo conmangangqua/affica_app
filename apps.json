@@ -63,7 +63,7 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.yazio_clone",
       "category": "Health & Fitness",
       "category_source": "desc",
       "store_updated": null,
@@ -113,7 +113,7 @@
       "category": "Lifestyle",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.1)"
+      "store_version": "1.0.2"
     },
     {
       "id": "chapterra",
@@ -299,7 +299,7 @@
       "category": null,
       "category_source": null,
       "store_updated": "Jun 29, 2026",
-      "store_version": "26062901 (1.0.1)"
+      "store_version": "1.0.2"
     },
     {
       "id": "goal_pulse",
@@ -368,7 +368,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Jun 29, 2026",
-      "store_version": "26062601 (1.0.3)"
+      "store_version": "1.0.4"
     },
     {
       "id": "marquisse",
@@ -857,7 +857,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Sep 3, 2026",
-      "store_version": "1.0.4"
+      "store_version": "1.0.5"
     }
   ]
 }
