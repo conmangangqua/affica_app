@@ -801,7 +801,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/vesperia.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090901",
+        "dev": "1.0.2+26092301",
         "prod": "1.0.0+26090901",
         "aab": "1.0.2+26092301"
       },
