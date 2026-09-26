@@ -63,7 +63,7 @@
         "dev": "1.0.0+1",
         "prod": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.yazio_clone",
+      "store": "",
       "category": "Health & Fitness",
       "category_source": "desc",
       "store_updated": null,
@@ -112,7 +112,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
       "category": "Lifestyle",
       "category_source": "store",
-      "store_updated": "Jul 23, 2026",
+      "store_updated": "Sep 26, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -272,11 +272,11 @@
         "prod": "1.0.5+26082601",
         "aab": "1.0.4+26081401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
+      "store": "",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": "Sep 3, 2026",
-      "store_version": "1.0.5"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "fan_call",
@@ -298,7 +298,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.fancall",
       "category": null,
       "category_source": null,
-      "store_updated": "Jun 29, 2026",
+      "store_updated": "Sep 26, 2026",
       "store_version": "1.0.2"
     },
     {
