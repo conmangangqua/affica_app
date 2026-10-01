@@ -158,5 +158,9 @@
   "panelo": {
     "sha": "1b46d8a3ddc72dddf588522f9d4a136c3d30ff3718972585d115ff643593e6e1",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/prod/panelo_icon.png"
+  },
+  "phantomly": {
+    "sha": "22f36055942418da691169ac01748c50c77694a846dcfa54d51089ec9e4ed7b5",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/phantomly_icon.png"
   }
 }
