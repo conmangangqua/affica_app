@@ -694,7 +694,7 @@
     {
       "id": "slatora",
       "name": "Slatora",
-      "icon": "icons/slatora.webp",
+      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/slatora_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
