@@ -166,5 +166,9 @@
   "handini": {
     "sha": "785fac6f274d7850320adfdf98c5e7a70c4e5ce0862bcfff8451c893f10efd4b",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/handini_icon.png"
+  },
+  "torchpass": {
+    "sha": "4b346317970987cd8c1872670f7ae73d949b74fec119fb3488a04195d0cd2661",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/torchpass_icon.png"
   }
 }
