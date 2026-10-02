@@ -162,5 +162,9 @@
   "phantomly": {
     "sha": "22f36055942418da691169ac01748c50c77694a846dcfa54d51089ec9e4ed7b5",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/phantomly_icon.png"
+  },
+  "handini": {
+    "sha": "785fac6f274d7850320adfdf98c5e7a70c4e5ce0862bcfff8451c893f10efd4b",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/handini_icon.png"
   }
 }

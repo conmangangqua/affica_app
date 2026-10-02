@@ -325,6 +325,25 @@
       "store_version": null
     },
     {
+      "id": "handini",
+      "name": "Handini",
+      "icon": "icons/handini.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/handini_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "hand-gesture",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "locato",
       "name": "Locato",
       "icon": "icons/locato.webp",
