@@ -182,5 +182,9 @@
   "junklift": {
     "sha": "a9cd8977c80d4a8e14b2a4e8175895468e946b8eca5d11e1af9b75d803011254",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/junklift_icon.png"
+  },
+  "bunnattery": {
+    "sha": "75643c35a7d6901de6ed7ec882813f0a236002752480be386946f65ed84148ad",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/bunnattery_icon.png"
   }
 }
