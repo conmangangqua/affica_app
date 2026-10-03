@@ -178,5 +178,9 @@
   "torchwise": {
     "sha": "276e4e400e8207dab405b85442c7f7f9d2ed464e7598ae0a6e26797985095630",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/torchwise_icon.png"
+  },
+  "junklift": {
+    "sha": "a9cd8977c80d4a8e14b2a4e8175895468e946b8eca5d11e1af9b75d803011254",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/junklift_icon.png"
   }
 }
