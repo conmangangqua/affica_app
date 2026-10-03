@@ -170,5 +170,9 @@
   "torchpass": {
     "sha": "4b346317970987cd8c1872670f7ae73d949b74fec119fb3488a04195d0cd2661",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/torchpass_icon.png"
+  },
+  "shibattery": {
+    "sha": "13e941b0af0e551755d6aec26127bc36d97ceaf2c61c46d13f94f77f5e300bcd",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/shibattery_icon.png"
   }
 }
