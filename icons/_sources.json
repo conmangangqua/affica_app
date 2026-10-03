@@ -174,5 +174,9 @@
   "shibattery": {
     "sha": "13e941b0af0e551755d6aec26127bc36d97ceaf2c61c46d13f94f77f5e300bcd",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/shibattery_icon.png"
+  },
+  "torchwise": {
+    "sha": "276e4e400e8207dab405b85442c7f7f9d2ed464e7598ae0a6e26797985095630",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/torchwise_icon.png"
   }
 }
