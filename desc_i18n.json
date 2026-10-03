@@ -59,6 +59,10 @@
   "en": "Live football scores, fixtures & World Cup hub in one clean app.",
   "vi": "Tỷ số bóng đá trực tiếp, lịch thi đấu và trung tâm World Cup trong một ứng dụng sạch."
  },
+ "handini": {
+  "en": "Hand magic effects you control with gestures — record and share the result.",
+  "vi": "Hiệu ứng ảo thuật của bàn tay bạn điều khiển bằng cử chỉ — ghi lại và chia sẻ kết quả."
+ },
  "locato": {
   "en": "GPS phone tracker to share location with family in real time safely",
   "vi": "Trình theo dõi điện thoại GPS để chia sẻ vị trí với gia đình trong thời gian thực một cách an toàn"
@@ -146,6 +150,10 @@
  "swift_secure_vpn": {
   "en": "Secure VPN proxy that encrypts your connection for safer, private browsing.",
   "vi": "Proxy VPN bảo mật mã hóa kết nối của bạn để duyệt web riêng tư, an toàn hơn."
+ },
+ "torchpass": {
+  "en": "Torch, compass and magnifier in one: SOS, screen light and flash alerts.",
+  "vi": "Đèn pin, la bàn và kính lúp trong một: Cảnh báo SOS, đèn màn hình và đèn flash."
  },
  "vesperia": {
   "en": "Short dramas, one swipe away: binge vertical episodes anytime.",
