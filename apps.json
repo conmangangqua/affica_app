@@ -572,7 +572,7 @@
     {
       "id": "phantomly",
       "name": "Phantomly",
-      "icon": "https://github.com/conmangangqua/affica_app/releases/download/prod/phantomly_icon.png",
+      "icon": "icons/phantomly.webp",
       "platform": "Android",
       "description": "",
       "features": [],
