@@ -505,8 +505,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Sep 23, 2026",
+      "store_version": "1.0.2"
     },
     {
       "id": "onaira",
@@ -816,7 +816,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/snapisode.aab"
       },
       "versions": {
-        "dev": "1.0.8+26090701",
+        "dev": "1.1.0+26100501",
         "prod": "1.0.8+26090701",
         "aab": "1.0.5+26082405"
       },
