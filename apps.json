@@ -57,11 +57,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/bunnattery_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/bunnattery_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/bunnattery_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/bunnattery.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26100501"
       },
       "store": "",
       "category": "Personalization",
@@ -584,7 +586,6 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/phantomly.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100202"
       },
