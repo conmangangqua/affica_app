@@ -817,7 +817,7 @@
       },
       "versions": {
         "dev": "1.1.0+26100502",
-        "prod": "1.0.8+26090701",
+        "prod": "1.1.0+26100502",
         "aab": "1.0.5+26082405"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
