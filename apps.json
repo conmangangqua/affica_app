@@ -377,11 +377,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/junklift_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/junklift_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/junklift_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/junklift.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26100501"
       },
       "store": "",
       "category": "Cleaner & Booster",
