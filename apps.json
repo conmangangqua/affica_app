@@ -156,7 +156,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chapterra",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -227,7 +227,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.crimora",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -250,7 +250,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.curtaino",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.1"
     },
     {
@@ -273,7 +273,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.cliffy",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.3"
     },
     {
@@ -342,7 +342,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
       "category": null,
       "category_source": null,
-      "store_updated": "Jul 9, 2026",
+      "store_updated": "Jul 8, 2026",
       "store_version": "26070803 (1.0.2)"
     },
     {
@@ -478,7 +478,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.nightella",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -502,7 +502,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 23, 2026",
-      "store_version": "1.0.1"
+      "store_version": "1.0.2"
     },
     {
       "id": "onaira",
@@ -524,7 +524,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.onaira",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": null
     },
     {
@@ -637,7 +637,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 13, 2026",
+      "store_updated": "Sep 14, 2026",
       "store_version": "1.0.4"
     },
     {
@@ -660,7 +660,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.reelure",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 30, 2026",
+      "store_updated": "Oct 1, 2026",
       "store_version": "1.0.6"
     },
     {
@@ -706,7 +706,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rizzora",
       "category": "Lifestyle",
       "category_source": "store",
-      "store_updated": "Sep 28, 2026",
+      "store_updated": "Sep 29, 2026",
       "store_version": "1.0.1"
     },
     {
@@ -729,7 +729,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.rosevia",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -752,7 +752,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "26092301 (1.0.2)"
     },
     {
@@ -796,7 +796,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.slatora",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "1.0.3"
     },
     {
@@ -819,7 +819,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.snapisode",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Oct 1, 2026",
+      "store_updated": "Oct 2, 2026",
       "store_version": "1.0.9"
     },
     {
@@ -925,11 +925,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/torchwise_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/torchwise_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/torchwise_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/torchwise.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26100501"
       },
       "store": "",
       "category": "Tools",
@@ -957,7 +959,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.vesperia",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 22, 2026",
+      "store_updated": "Sep 23, 2026",
       "store_version": "26092301 (1.0.2)"
     },
     {
