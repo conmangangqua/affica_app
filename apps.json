@@ -859,10 +859,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/stickpeel_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/stickpeel_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/stickpeel_prod.apk"
       },
       "versions": {
-        "dev": "1.0.3+26072801"
+        "dev": "1.0.3+26072801",
+        "prod": "1.0.3+26072801"
       },
       "store": "",
       "category": null,
