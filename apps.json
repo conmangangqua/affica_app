@@ -113,7 +113,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": "26092401 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "celebring",
@@ -253,7 +253,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "dramelo",
@@ -757,7 +757,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "26092301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "shibattery",
