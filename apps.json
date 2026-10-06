@@ -505,7 +505,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 23, 2026",
+      "store_updated": "Oct 4, 2026",
       "store_version": "1.0.2"
     },
     {
@@ -541,9 +541,7 @@
       "downloads": {
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/panelo.aab"
       },
-      "versions": {
-        "aab": "1.0.0+26091302"
-      },
+      "versions": {},
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "store",
