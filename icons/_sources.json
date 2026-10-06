@@ -186,5 +186,9 @@
   "bunnattery": {
     "sha": "75643c35a7d6901de6ed7ec882813f0a236002752480be386946f65ed84148ad",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/bunnattery_icon.png"
+  },
+  "stickpeel": {
+    "sha": "ba7ca22b6dc9f6074dd7c2eb549a449ad7dfe182338ef66138853bfd163f4bd0",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/stickpeel_icon.png"
   }
 }
