@@ -541,7 +541,9 @@
       "downloads": {
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/panelo.aab"
       },
-      "versions": {},
+      "versions": {
+        "aab": "1.0.0+26091302"
+      },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "store",
