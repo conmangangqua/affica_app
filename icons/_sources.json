@@ -190,5 +190,9 @@
   "stickpeel": {
     "sha": "ba7ca22b6dc9f6074dd7c2eb549a449ad7dfe182338ef66138853bfd163f4bd0",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/stickpeel_icon.png"
+  },
+  "stepbreeze": {
+    "sha": "d28735adc5c67feacf98615e43eafccbb5859c7ba605396582a3733a88df165a",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/stepbreeze_icon.png"
   }
 }
