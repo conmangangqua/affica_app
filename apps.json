@@ -65,7 +65,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.bunnattery",
       "category": "Personalization",
       "category_source": "desc",
       "store_updated": null,
@@ -590,7 +590,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100202"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.phantomly",
       "category": "Entertainment",
       "category_source": "desc",
       "store_updated": null,
