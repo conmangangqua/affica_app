@@ -958,7 +958,7 @@
         "prod": "1.0.0+26100401",
         "aab": "1.0.0+26100401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchpass",
       "category": "Tools",
       "category_source": "desc",
       "store_updated": null,
