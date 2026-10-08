@@ -365,10 +365,10 @@
         "aab": "1.0.0+26100401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.handini",
-      "category": "Entertainment",
-      "category_source": "desc",
-      "store_updated": null,
-      "store_version": null
+      "category": "Photography",
+      "category_source": "store",
+      "store_updated": "Oct 4, 2026",
+      "store_version": "26100401 (1.0.0)"
     },
     {
       "id": "junklift",
@@ -981,7 +981,7 @@
         "prod": "1.0.0+26100501",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
       "category": "Tools",
       "category_source": "desc",
       "store_updated": null,
