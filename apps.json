@@ -387,7 +387,7 @@
         "prod": "1.0.0+26100501",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.junklift",
       "category": "Cleaner & Booster",
       "category_source": "gitlab",
       "store_updated": null,
