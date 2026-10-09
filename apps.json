@@ -361,7 +361,7 @@
       },
       "versions": {
         "dev": "1.0.0+26100401",
-        "prod": "1.0.0+1",
+        "prod": "1.0.0+26100401",
         "aab": "1.0.0+26100401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.handini",
@@ -613,11 +613,11 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Jul 30, 2026",
+      "store_version": "26073002 (1.0.1)"
     },
     {
       "id": "plotwist",
