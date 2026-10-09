@@ -341,11 +341,11 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
+      "store": "",
       "category": null,
       "category_source": null,
-      "store_updated": "Jul 8, 2026",
-      "store_version": "26070803 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "handini",
@@ -881,11 +881,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/stickpeel_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/stickpeel_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/stickpeel_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/stickpeel.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26100901"
       },
       "store": "",
       "category": "Art & Design",
@@ -916,7 +918,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": null
+      "store_version": "26072301 (1.0.2)"
     },
     {
       "id": "swift_secure_vpn",
