@@ -885,7 +885,7 @@
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.3+26072801"
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "Art & Design",
@@ -916,7 +916,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "swift_secure_vpn",
