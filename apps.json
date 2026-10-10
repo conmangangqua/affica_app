@@ -109,10 +109,10 @@
         "prod": "1.0.2+26092401",
         "aab": "1.0.2+26092401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 24, 2026",
       "store_version": null
     },
     {
@@ -132,10 +132,10 @@
         "prod": "1.0.2+26092601",
         "aab": "1.0.1+26080501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
       "category": "Lifestyle",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 26, 2026",
       "store_version": null
     },
     {
@@ -341,10 +341,10 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
       "category": null,
       "category_source": null,
-      "store_updated": null,
+      "store_updated": "Jul 9, 2026",
       "store_version": null
     },
     {
@@ -544,10 +544,10 @@
       "versions": {
         "aab": "1.0.0+26091302"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 27, 2026",
       "store_version": null
     },
     {
@@ -983,10 +983,10 @@
         "prod": "1.0.0+26100501",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Oct 5, 2026",
       "store_version": null
     },
     {
