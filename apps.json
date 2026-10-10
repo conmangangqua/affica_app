@@ -203,10 +203,10 @@
         "aab": "1.0.1+26072302",
         "noads": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Jul 23, 2026",
       "store_version": null
     },
     {
@@ -295,10 +295,10 @@
         "prod": "1.0.5+26082601",
         "aab": "1.0.4+26081401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Sep 3, 2026",
       "store_version": null
     },
     {
@@ -456,10 +456,10 @@
         "prod": "1.0.0+26090901",
         "aab": "1.0.2+26092401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.marquisse",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 24, 2026",
       "store_version": null
     },
     {
@@ -613,10 +613,10 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Jul 30, 2026",
       "store_version": null
     },
     {
@@ -638,10 +638,10 @@
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 13, 2026",
       "store_version": null
     },
     {
@@ -914,10 +914,10 @@
         "aab": "1.0.3+26072801",
         "noads": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Jul 23, 2026",
       "store_version": null
     },
     {
@@ -983,10 +983,10 @@
         "prod": "1.0.0+26100501",
         "aab": "1.0.0+26100501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Oct 5, 2026",
       "store_version": null
     },
     {
@@ -1054,10 +1054,10 @@
         "prod": "1.0.4+26090302",
         "aab": "1.0.4+26090301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Sep 26, 2026",
       "store_version": null
     }
   ]
