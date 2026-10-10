@@ -42,10 +42,10 @@
         "prod": "1.0.1+26091101",
         "aab": "1.0.0+26090501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.battopia",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 11, 2026",
       "store_version": null
     },
     {
@@ -109,10 +109,10 @@
         "prod": "1.0.2+26092401",
         "aab": "1.0.2+26092401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 24, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -132,10 +132,10 @@
         "prod": "1.0.2+26092601",
         "aab": "1.0.1+26080501"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.celebring",
+      "store": "",
       "category": "Lifestyle",
       "category_source": "store",
-      "store_updated": "Sep 26, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -203,10 +203,10 @@
         "aab": "1.0.1+26072302",
         "noads": "1.0.0+1"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Jul 23, 2026",
       "store_version": null
     },
     {
@@ -410,10 +410,10 @@
         "prod": "1.0.1+26072301",
         "aab": "1.0.1+26072301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Jul 23, 2026",
       "store_version": null
     },
     {
@@ -456,10 +456,10 @@
         "prod": "1.0.0+26090901",
         "aab": "1.0.2+26092401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.marquisse",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 24, 2026",
       "store_version": null
     },
     {
@@ -502,10 +502,10 @@
         "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Oct 5, 2026",
       "store_version": null
     },
     {
@@ -544,10 +544,10 @@
       "versions": {
         "aab": "1.0.0+26091302"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 27, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -613,10 +613,10 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Jul 30, 2026",
       "store_version": null
     },
     {
@@ -638,10 +638,10 @@
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 13, 2026",
       "store_version": null
     },
     {
@@ -753,10 +753,10 @@
         "prod": "1.0.1+26091301",
         "aab": "1.0.2+26092301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 22, 2026",
       "store_version": null
     },
     {
@@ -772,7 +772,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/shibattery.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26100902",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100501"
       },
@@ -1054,10 +1054,10 @@
         "prod": "1.0.4+26090302",
         "aab": "1.0.4+26090301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Sep 26, 2026",
       "store_version": null
     }
   ]
