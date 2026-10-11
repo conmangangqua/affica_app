@@ -194,5 +194,9 @@
   "stepbreeze": {
     "sha": "b1b3bdfd980e56a6a30d295a0541c7ff40eb20cf96d5292b0f2f4d3389fd3c26",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/stepbreeze_icon.png"
+  },
+  "wificrest": {
+    "sha": "fa2648047fd673c42225bc48e286ccac6ed7a518c2aabd9fcf8a372edacff8c3",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/wificrest_icon.png"
   }
 }
