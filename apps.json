@@ -891,7 +891,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100901"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.stickpeel",
       "category": "Art & Design",
       "category_source": "gitlab",
       "store_updated": null,
