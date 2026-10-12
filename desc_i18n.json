@@ -187,6 +187,10 @@
   "en": "Eject water from your speaker",
   "vi": "Đẩy nước ra khỏi loa của bạn"
  },
+ "wificrest": {
+  "en": "Scan devices on your network, save hotspots offline, make strong Wi-Fi keys.",
+  "vi": "Quét các thiết bị trên mạng của bạn, lưu điểm phát sóng ngoại tuyến, tạo khóa Wi-Fi mạnh."
+ },
  "yuki_chat": {
   "en": "AI chat companion for real talks, voice notes and quick answers",
   "vi": "Người bạn đồng hành trò chuyện AI để có những cuộc nói chuyện thực sự, ghi chú bằng giọng nói và câu trả lời nhanh"
