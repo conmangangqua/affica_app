@@ -198,5 +198,9 @@
   "wificrest": {
     "sha": "fa2648047fd673c42225bc48e286ccac6ed7a518c2aabd9fcf8a372edacff8c3",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/wificrest_icon.png"
+  },
+  "edgelume": {
+    "sha": "e9bc101a7d8c7c2cb66dd2c20627dcec5b07bab355e0c43f77b77814d9f61941",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/edgelume_icon.png"
   }
 }

@@ -302,6 +302,25 @@
       "store_version": "1.0.5"
     },
     {
+      "id": "edgelume",
+      "name": "Edgelume",
+      "icon": "icons/edgelume.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/edgelume_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "Personalization",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "fan_call",
       "name": "FanCall - Prank Video Call",
       "icon": "icons/fan_call.webp",
