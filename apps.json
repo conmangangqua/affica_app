@@ -608,7 +608,7 @@
       },
       "versions": {
         "dev": "1.0.1+26101201",
-        "prod": "1.0.1+26100901",
+        "prod": "1.0.1+26101201",
         "aab": "1.0.0+26100202"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.phantomly",
