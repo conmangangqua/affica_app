@@ -69,7 +69,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "26100501 (1.0.0)"
+      "store_version": "1.0.1"
     },
     {
       "id": "calorie_fasting_tracker",
@@ -801,7 +801,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Oct 6, 2026",
-      "store_version": "26100501 (1.0.0)"
+      "store_version": "1.0.1"
     },
     {
       "id": "slatora",
