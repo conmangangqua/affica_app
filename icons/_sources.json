@@ -202,5 +202,9 @@
   "edgelume": {
     "sha": "e9bc101a7d8c7c2cb66dd2c20627dcec5b07bab355e0c43f77b77814d9f61941",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/edgelume_icon.png"
+  },
+  "camsweep": {
+    "sha": "3d9e2a2b308531a9a4f5c534fc94f90bbca83294d3d29437c98030c1d265ccf4",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/camsweep_icon.png"
   }
 }
