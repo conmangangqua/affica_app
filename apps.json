@@ -264,7 +264,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/crimora.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090901",
+        "dev": "1.0.2+26092301",
         "prod": "1.0.0+26090901",
         "aab": "1.0.0+26090901"
       },
@@ -456,7 +456,7 @@
       "category": "Tools",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "26100501 (1.0.0)"
+      "store_version": "1.0.1"
     },
     {
       "id": "locato",
