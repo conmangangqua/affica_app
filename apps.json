@@ -206,6 +206,25 @@
       "store_version": "1.0.5"
     },
     {
+      "id": "chargeflare",
+      "name": "Chargeflare",
+      "icon": "icons/chargeflare.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/chargeflare_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "battery",
+      "category_source": "gitlab",
+      "store_updated": null,
+      "store_version": null
+    },
+    {
       "id": "clean_space",
       "name": "Clean Space: Photo Cleaner",
       "icon": "icons/clean_space.webp",
