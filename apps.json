@@ -1027,7 +1027,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/torchpass.aab"
       },
       "versions": {
-        "dev": "1.0.0+26100401",
+        "dev": "1.0.1+26101601",
         "prod": "1.0.0+26100401",
         "aab": "1.0.0+26100401"
       },
