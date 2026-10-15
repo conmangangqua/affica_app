@@ -46,7 +46,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Sep 10, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "bunnattery",
@@ -69,7 +69,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Oct 13, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "calorie_fasting_tracker",
@@ -113,7 +113,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 24, 2026",
-      "store_version": "26092401 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "camsweep",
@@ -157,7 +157,7 @@
       "category": "Lifestyle",
       "category_source": "store",
       "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "chapterra",
@@ -180,7 +180,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "chapture",
@@ -203,7 +203,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.5"
+      "store_version": null
     },
     {
       "id": "chargeflare",
@@ -249,7 +249,7 @@
       "category": "Cleaner & Booster",
       "category_source": "rule",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072302 (1.0.1)"
+      "store_version": null
     },
     {
       "id": "crimora",
@@ -272,7 +272,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "curtaino",
@@ -295,7 +295,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "dramelo",
@@ -318,7 +318,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.3"
+      "store_version": null
     },
     {
       "id": "dramio",
@@ -341,7 +341,7 @@
       "category": "Streaming",
       "category_source": "rule",
       "store_updated": "Sep 3, 2026",
-      "store_version": "1.0.5"
+      "store_version": null
     },
     {
       "id": "edgelume",
@@ -387,7 +387,7 @@
       "category": null,
       "category_source": null,
       "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "goal_pulse",
@@ -410,7 +410,7 @@
       "category": null,
       "category_source": null,
       "store_updated": "Jul 8, 2026",
-      "store_version": "26070803 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "handini",
@@ -433,7 +433,7 @@
       "category": "Photography",
       "category_source": "store",
       "store_updated": "Oct 4, 2026",
-      "store_version": "26100401 (1.0.0)"
+      "store_version": null
     },
     {
       "id": "junklift",
@@ -456,7 +456,7 @@
       "category": "Tools",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "26100501 (1.0.0)"
+      "store_version": null
     },
     {
       "id": "locato",
@@ -479,7 +479,7 @@
       "category": "Maps & Navigation",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.1)"
+      "store_version": null
     },
     {
       "id": "lunaai_chat",
@@ -502,7 +502,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.4"
+      "store_version": null
     },
     {
       "id": "marquisse",
@@ -548,7 +548,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "oceara",
@@ -571,7 +571,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 4, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "onaira",
@@ -613,7 +613,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 27, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "pdfeather",
@@ -636,7 +636,7 @@
       "category": "Productivity",
       "category_source": "store",
       "store_updated": "Aug 19, 2026",
-      "store_version": "26081903 (1.0.1)"
+      "store_version": null
     },
     {
       "id": "phantomly",
@@ -659,7 +659,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 12, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "phonix",
@@ -682,7 +682,7 @@
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": "Jul 30, 2026",
-      "store_version": "26073002 (1.0.1)"
+      "store_version": null
     },
     {
       "id": "plotwist",
@@ -707,7 +707,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 13, 2026",
-      "store_version": "1.0.4"
+      "store_version": null
     },
     {
       "id": "reelure",
@@ -730,7 +730,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 30, 2026",
-      "store_version": "1.0.6"
+      "store_version": null
     },
     {
       "id": "retriva",
@@ -753,7 +753,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "rizzora",
@@ -776,7 +776,7 @@
       "category": "Lifestyle",
       "category_source": "store",
       "store_updated": "Sep 28, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "rosevia",
@@ -799,7 +799,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "scenova",
@@ -822,7 +822,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "26092301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "shibattery",
@@ -845,7 +845,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Oct 13, 2026",
-      "store_version": "1.0.1"
+      "store_version": null
     },
     {
       "id": "slatora",
@@ -868,7 +868,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "1.0.3"
+      "store_version": null
     },
     {
       "id": "snapisode",
@@ -891,7 +891,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "1.1.0"
+      "store_version": null
     },
     {
       "id": "spotlite",
@@ -914,7 +914,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "1.0.2"
+      "store_version": null
     },
     {
       "id": "stepbreeze",
@@ -985,7 +985,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "swift_secure_vpn",
@@ -1008,7 +1008,7 @@
       "category": "VPN",
       "category_source": "rule",
       "store_updated": "Jul 29, 2026",
-      "store_version": "26072902 (1.0.8)"
+      "store_version": null
     },
     {
       "id": "torchpass",
@@ -1031,7 +1031,7 @@
       "category": "Tools",
       "category_source": "store",
       "store_updated": "Oct 5, 2026",
-      "store_version": "26100401 (1.0.0)"
+      "store_version": null
     },
     {
       "id": "torchwise",
@@ -1077,7 +1077,7 @@
       "category": "Entertainment",
       "category_source": "store",
       "store_updated": "Sep 22, 2026",
-      "store_version": "26092301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "wave_cleaner",
@@ -1102,7 +1102,7 @@
       "category": "Cleaner & Booster",
       "category_source": "rule",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "wificrest",
@@ -1148,7 +1148,7 @@
       "category": "AI Chat",
       "category_source": "rule",
       "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.5"
+      "store_version": null
     }
   ]
 }
