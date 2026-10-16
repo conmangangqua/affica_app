@@ -132,7 +132,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26101601"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.camsweep",
       "category": "Tools",
       "category_source": "desc",
       "store_updated": null,
@@ -1022,10 +1022,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/timbersage_dev.apk"
+        "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/timbersage_dev.apk",
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/timbersage_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": "",
       "category": "tools",
