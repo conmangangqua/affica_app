@@ -210,5 +210,9 @@
   "chargeflare": {
     "sha": "afcf4861a8df532b37c199e735726946ea33e59b6c5d46636c5234e2cf15b1cf",
     "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/chargeflare_icon.png"
+  },
+  "timbersage": {
+    "sha": "57326e41f7eb0d577edf2eda3e90c387fc7d95255e134d8915a6c0df6b59d80e",
+    "src": "https://github.com/conmangangqua/affica_app/releases/download/dev/timbersage_icon.png"
   }
 }
