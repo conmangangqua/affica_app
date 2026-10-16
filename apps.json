@@ -226,8 +226,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chargeflare",
       "category": "Personalization",
-      "category_source": "desc",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -1055,7 +1055,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchpass",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 5, 2026",
+      "store_updated": "Oct 15, 2026",
       "store_version": "1.0.1"
     },
     {
@@ -1078,7 +1078,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 5, 2026",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
