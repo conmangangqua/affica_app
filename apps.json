@@ -430,7 +430,7 @@
       },
       "versions": {
         "dev": "1.0.1+26101501",
-        "prod": "1.0.0+26100401",
+        "prod": "1.0.1+26101501",
         "aab": "1.0.0+26100401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.handini",
