@@ -107,7 +107,7 @@
       "versions": {
         "dev": "1.0.2+26092401",
         "prod": "1.0.2+26092401",
-        "aab": "1.0.2+26092401"
+        "aab": "1.0.2+26101601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
       "category": "Entertainment",
@@ -366,8 +366,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.edgelume",
       "category": "Personalization",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
