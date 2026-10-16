@@ -130,7 +130,7 @@
       "versions": {
         "dev": "1.0.0+1",
         "prod": "1.0.0+1",
-        "aab": "1.0.0+26101501"
+        "aab": "1.0.0+26101601"
       },
       "store": "",
       "category": "Tools",
@@ -252,8 +252,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": "Jul 23, 2026",
-      "store_version": "26072302 (1.0.1)"
+      "store_updated": "Jul 22, 2026",
+      "store_version": null
     },
     {
       "id": "crimora",
@@ -364,7 +364,7 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26101402"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.edgelume",
       "category": "Personalization",
       "category_source": "gitlab",
       "store_updated": null,
@@ -482,7 +482,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
       "category_source": "store",
-      "store_updated": "Jul 23, 2026",
+      "store_updated": "Jul 22, 2026",
       "store_version": "26072301 (1.0.1)"
     },
     {
@@ -685,7 +685,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Jul 30, 2026",
+      "store_updated": "Jul 29, 2026",
       "store_version": "26073002 (1.0.1)"
     },
     {
@@ -940,7 +940,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.stepbreeze",
       "category": "Health & Fitness",
       "category_source": "store",
-      "store_updated": "Oct 10, 2026",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -963,7 +963,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.stickpeel",
       "category": "Art & Design",
       "category_source": "store",
-      "store_updated": "Oct 10, 2026",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -989,7 +989,7 @@
       "category": "Personalization",
       "category_source": "store",
       "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.2)"
+      "store_version": null
     },
     {
       "id": "swift_secure_vpn",
