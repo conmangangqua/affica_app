@@ -35,6 +35,10 @@
   "en": "Vertical short dramas: every episode a chapter, binged and bookmarked for you.",
   "vi": "Phim truyền hình ngắn theo chiều dọc: mỗi tập một chương, được biên soạn và đánh dấu cho bạn."
  },
+ "chargeflare": {
+  "en": "Charging animation show when you plug in: 32 styles, battery info, wallpapers",
+  "vi": "Hiển thị hoạt hình sạc khi bạn cắm điện: 32 kiểu, thông tin pin, hình nền"
+ },
  "clean_space": {
   "en": "Storage cleaner to clear cache, duplicate photos, videos and unused apps.",
   "vi": "Trình dọn dẹp bộ nhớ để xóa bộ nhớ đệm, ảnh, video trùng lặp và các ứng dụng không sử dụng."
@@ -178,6 +182,10 @@
  "swift_secure_vpn": {
   "en": "Secure VPN proxy that encrypts your connection for safer, private browsing.",
   "vi": "Proxy VPN bảo mật mã hóa kết nối của bạn để duyệt web riêng tư, an toàn hơn."
+ },
+ "timbersage": {
+  "en": "Scan wood, learn its specs, then plan your build with a cut list.",
+  "vi": "Quét gỗ, tìm hiểu thông số kỹ thuật của nó, sau đó lập kế hoạch xây dựng bằng danh sách cắt."
  },
  "torchpass": {
   "en": "Torch, compass and magnifier in one: SOS, screen light and flash alerts.",
