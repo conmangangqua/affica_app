@@ -134,7 +134,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.camsweep",
       "category": "Tools",
-      "category_source": "desc",
+      "category_source": "store",
       "store_updated": "Oct 15, 2026",
       "store_version": null
     },
@@ -1030,8 +1030,8 @@
         "prod": "1.0.0+1"
       },
       "store": "",
-      "category": "tools",
-      "category_source": "gitlab",
+      "category": "Tools",
+      "category_source": "desc",
       "store_updated": null,
       "store_version": null
     },
