@@ -132,10 +132,10 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26101601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.camsweep",
+      "store": "",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 15, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
