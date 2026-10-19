@@ -61,7 +61,7 @@
         "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/bunnattery.aab"
       },
       "versions": {
-        "dev": "1.0.0+1",
+        "dev": "1.0.1+26101301",
         "prod": "1.0.0+1",
         "aab": "1.0.0+26100501"
       },
@@ -1148,9 +1148,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wificrest",
       "category": "Tools",
-      "category_source": "gitlab",
+      "category_source": "store",
       "store_updated": "Oct 14, 2026",
-      "store_version": null
+      "store_version": "26101401 (1.0.0)"
     },
     {
       "id": "yuki_chat",
