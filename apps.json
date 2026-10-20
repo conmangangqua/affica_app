@@ -132,10 +132,10 @@
         "prod": "1.0.1+26101901",
         "aab": "1.0.0+26101601"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.camsweep",
+      "store": "",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 19, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -224,10 +224,10 @@
         "prod": "1.0.1+26101901",
         "aab": "1.0.0+26101502"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chargeflare",
+      "store": "",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Oct 19, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -249,11 +249,11 @@
         "aab": "1.0.1+26072302",
         "noads": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquil.clean.space",
+      "store": "",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": "Jul 23, 2026",
-      "store_version": "26072302 (1.0.1)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "crimora",
@@ -364,10 +364,10 @@
         "prod": "1.0.1+26101601",
         "aab": "1.0.0+26101402"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.edgelume",
+      "store": "",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Oct 19, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -410,11 +410,11 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
+      "store": "",
       "category": null,
       "category_source": null,
-      "store_updated": "Jul 9, 2026",
-      "store_version": "26070803 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "handini",
@@ -525,10 +525,10 @@
         "prod": "1.0.2+26092401",
         "aab": "1.0.2+26092401"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.marquisse",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Oct 16, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -571,11 +571,11 @@
         "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090802"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Oct 4, 2026",
-      "store_version": "1.0.2"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "onaira",
@@ -613,11 +613,11 @@
       "versions": {
         "aab": "1.0.0+26091302"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
+      "store": "",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Sep 27, 2026",
-      "store_version": "1.0.2"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "pdfeather",
@@ -985,11 +985,11 @@
         "aab": "1.0.3+26072801",
         "noads": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=co.tranquilmind.stikopop",
+      "store": "",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Jul 23, 2026",
-      "store_version": "26072301 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "swift_secure_vpn",
@@ -1023,11 +1023,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/affica_app/releases/download/dev/timbersage_dev.apk",
-        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/timbersage_prod.apk"
+        "prod": "https://github.com/conmangangqua/affica_app/releases/download/prod/timbersage_prod.apk",
+        "aab": "https://github.com/conmangangqua/affica_app/releases/download/aab/timbersage.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26102001"
       },
       "store": "",
       "category": "Tools",
@@ -1169,11 +1171,11 @@
         "prod": "1.0.4+26090302",
         "aab": "1.0.4+26090301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
+      "store": "",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.5"
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }
