@@ -297,7 +297,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.curtaino",
       "category": "Entertainment",
-      "category_source": "gitlab",
+      "category_source": "store",
       "store_updated": "Sep 22, 2026",
       "store_version": null
     },
@@ -366,8 +366,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.edgelume",
       "category": "Personalization",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 19, 2026",
       "store_version": null
     },
     {
@@ -481,7 +481,7 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.locato",
       "category": "Maps & Navigation",
-      "category_source": "gitlab",
+      "category_source": "store",
       "store_updated": "Jul 23, 2026",
       "store_version": null
     },
@@ -525,10 +525,10 @@
         "prod": "1.0.2+26092401",
         "aab": "1.0.2+26092401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.marquisse",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 16, 2026",
       "store_version": null
     },
     {
@@ -571,10 +571,10 @@
         "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090802"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.oceara",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 4, 2026",
       "store_version": null
     },
     {
@@ -613,11 +613,11 @@
       "versions": {
         "aab": "1.0.0+26091302"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.panelo",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
+      "category_source": "store",
+      "store_updated": "Sep 27, 2026",
+      "store_version": "1.0.3"
     },
     {
       "id": "pdfeather",
@@ -682,10 +682,10 @@
         "prod": "1.0.1+26073002",
         "aab": "1.0.1+26073002"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.phonix.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": null,
+      "store_updated": "Jul 30, 2026",
       "store_version": null
     },
     {
@@ -707,10 +707,10 @@
         "aab": "1.0.4+26081801",
         "noads": "1.0.0+26080403"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.plotwist",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": null,
+      "store_updated": "Sep 13, 2026",
       "store_version": null
     },
     {
@@ -822,10 +822,10 @@
         "prod": "1.0.1+26091301",
         "aab": "1.0.2+26092301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.scenova",
       "category": "Entertainment",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Sep 22, 2026",
       "store_version": null
     },
     {
@@ -986,8 +986,8 @@
         "noads": "1.0.0+1"
       },
       "store": "",
-      "category": "Art & Design",
-      "category_source": "gitlab",
+      "category": "Personalization",
+      "category_source": "store",
       "store_updated": null,
       "store_version": null
     },

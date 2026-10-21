@@ -10,5 +10,11 @@
   "dramio": "android:com.tranquiltmt.velora.drama",
   "edgelume": "android:com.tranquiltmt.edgelume",
   "goal_pulse": "android:com.tranquilpartner.goalpulse",
-  "locato": "android:com.tranquilpartner.locato"
+  "locato": "android:com.tranquilpartner.locato",
+  "marquisse": "android:com.tranquiltmt.marquisse",
+  "oceara": "android:com.tranquiltmt.oceara",
+  "panelo": "android:com.tranquiltmt.panelo",
+  "phonix": "android:com.tranquilmind.phonix.caller",
+  "plotwist": "android:com.tranquiltmt.plotwist",
+  "scenova": "android:com.tranquiltmt.scenova"
 }
