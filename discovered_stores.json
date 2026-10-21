@@ -4,5 +4,11 @@
   "calyssa": "android:com.tranquiltmt.calyssa",
   "camsweep": "android:com.tranquiltmt.camsweep",
   "celebring": "android:com.tranquiltmt.celebring",
-  "chargeflare": "android:com.tranquiltmt.chargeflare"
+  "chargeflare": "android:com.tranquiltmt.chargeflare",
+  "clean_space": "android:com.tranquil.clean.space",
+  "curtaino": "android:com.tranquiltmt.curtaino",
+  "dramio": "android:com.tranquiltmt.velora.drama",
+  "edgelume": "android:com.tranquiltmt.edgelume",
+  "goal_pulse": "android:com.tranquilpartner.goalpulse",
+  "locato": "android:com.tranquilpartner.locato"
 }
