@@ -341,11 +341,11 @@
         "prod": "1.0.5+26082601",
         "aab": "1.0.4+26081401"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.velora.drama",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": null,
-      "store_version": null
+      "store_updated": "Sep 3, 2026",
+      "store_version": "1.0.5"
     },
     {
       "id": "edgelume",
@@ -410,11 +410,11 @@
         "prod": "1.0.2+26070803",
         "aab": "1.0.2+26070803"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.goalpulse",
+      "store": "",
       "category": null,
       "category_source": null,
-      "store_updated": "Jul 8, 2026",
-      "store_version": "26070803 (1.0.2)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "handini",
@@ -453,7 +453,7 @@
       },
       "versions": {
         "dev": "1.0.1+26101501",
-        "prod": "1.0.0+26100501",
+        "prod": "1.0.1+26101501",
         "aab": "1.0.0+26100501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.junklift",
@@ -1077,10 +1077,10 @@
         "prod": "1.0.0+26100501",
         "aab": "1.0.0+26100501"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
+      "store": "",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 15, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -1148,11 +1148,11 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+26101402"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wificrest",
+      "store": "",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 14, 2026",
-      "store_version": "26101401 (1.0.0)"
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "yuki_chat",
@@ -1171,11 +1171,11 @@
         "prod": "1.0.4+26090302",
         "aab": "1.0.4+26090301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.yuki.chat",
+      "store": "",
       "category": "AI Chat",
       "category_source": "rule",
-      "store_updated": "Sep 26, 2026",
-      "store_version": "1.0.5"
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }
