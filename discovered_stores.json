@@ -16,5 +16,11 @@
   "panelo": "android:com.tranquiltmt.panelo",
   "phonix": "android:com.tranquilmind.phonix.caller",
   "plotwist": "android:com.tranquiltmt.plotwist",
-  "scenova": "android:com.tranquiltmt.scenova"
+  "scenova": "android:com.tranquiltmt.scenova",
+  "stickpeel": "android:com.tranquilpartner.stickpeel",
+  "stikopop": "android:co.tranquilmind.stikopop",
+  "timbersage": "android:com.tranquiltmt.timbersage",
+  "torchwise": "android:com.tranquiltmt.torchwise",
+  "wificrest": "android:com.tranquiltmt.wificrest",
+  "yuki_chat": "android:com.tranquilmind.yuki.chat"
 }
