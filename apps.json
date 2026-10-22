@@ -45,7 +45,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.battopia",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Sep 10, 2026",
+      "store_updated": "Sep 11, 2026",
       "store_version": null
     },
     {
@@ -112,7 +112,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.calyssa",
       "category": "Entertainment",
       "category_source": "store",
-      "store_updated": "Oct 15, 2026",
+      "store_updated": "Oct 16, 2026",
       "store_version": null
     },
     {
@@ -227,7 +227,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.chargeflare",
       "category": "Personalization",
       "category_source": "store",
-      "store_updated": "Oct 19, 2026",
+      "store_updated": "Oct 20, 2026",
       "store_version": null
     },
     {
@@ -940,7 +940,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.stepbreeze",
       "category": "Health & Fitness",
       "category_source": "store",
-      "store_updated": "Oct 16, 2026",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -962,8 +962,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilpartner.stickpeel",
       "category": "Art & Design",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -1032,9 +1032,9 @@
         "aab": "1.0.0+26102001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.timbersage",
-      "category": "Tools",
-      "category_source": "desc",
-      "store_updated": null,
+      "category": "House & Home",
+      "category_source": "store",
+      "store_updated": "Oct 20, 2026",
       "store_version": null
     },
     {
@@ -1057,7 +1057,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchpass",
       "category": "Tools",
       "category_source": "store",
-      "store_updated": "Oct 15, 2026",
+      "store_updated": "Oct 16, 2026",
       "store_version": null
     },
     {
@@ -1079,8 +1079,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.torchwise",
       "category": "Tools",
-      "category_source": "desc",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 15, 2026",
       "store_version": null
     },
     {
@@ -1150,8 +1150,8 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.wificrest",
       "category": "Tools",
-      "category_source": "gitlab",
-      "store_updated": null,
+      "category_source": "store",
+      "store_updated": "Oct 14, 2026",
       "store_version": null
     },
     {
